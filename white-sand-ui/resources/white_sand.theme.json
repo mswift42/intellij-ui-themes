@@ -1,8 +1,11 @@
 {
   "name": "white-sand",
   "dark": false,
-  "author": "",
-  "editorScheme": "/white_sand.xml",
+  "author": "Martin Haesler",
+  "editorScheme": "/white_sand.icls",
   "ui": {
+    "*": {
+      "background": "#f5ebe1"
+    }
   }
 }

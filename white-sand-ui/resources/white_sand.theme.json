@@ -12,10 +12,42 @@
       "acceleratorSelectionForeground": "#656565",
       "errorForeground": "#ff1276",
       "borderColor": "#bab3ab",
-      "disabledBorderColor": "#AA6E28",
-      "focusColor": "#1AEBFF",
-      "focusedBorderColor": "#1AEBFF",
+      "disabledBorderColor": "#e1d8cf",
+      "focusColor": "#4a858c",
+      "focusedBorderColor": "#4a858c",
       "separatorColor": "#bab3ab"
+    },
+    "ActionButton": {
+      "hoverBackground": "#000000",
+      "pressedBackground": "#000000",
+      "hoverBorderColor": "#4a858c",
+      "pressedBorderColor": "#4a858c"
+    },
+    "Button": {
+      "startBackground": "#e1d8cf",
+      "endBackground": "#e1d8cf",
+      "startBorderColor": "#585858",
+      "endBorderColor": "#FFFFFF",
+      "default": {
+        "foreground": "#000000",
+        "startBackground": "#e1d8cf",
+        "endBackground": "#e1d8cf",
+        "startBorderColor": "#e1d8cf",
+        "endBorderColor": "#e1d8cf",
+        "focusedBorderColor": "#000000"
+      }
+    },
+    "Borders": {
+      "color": "#b3b3b3",
+      "ContrastBorderColor": "#B3B3B3"
+    },
+    "ComboBox": {
+      "nonEditableBackground": "#000000",
+      "ArrowButton": {
+        "iconColor": "#FFFFFF",
+        "disabledIconColor": "#AA6E28",
+        "nonEditableBackground": "#000000"
+      }
     },
     "Label.background": "#e1d8cf",
     "TabbedPane.background": "#e1d8cf"

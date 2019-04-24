@@ -26,10 +26,10 @@
     "Button": {
       "startBackground": "#e1d8cf",
       "endBackground": "#e1d8cf",
-      "startBorderColor": "#585858",
-      "endBorderColor": "#FFFFFF",
+      "startBorderColor": "#cec5bd",
+      "endBorderColor": "#cec5bd",
       "default": {
-        "foreground": "#000000",
+        "foreground": "#656565",
         "startBackground": "#e1d8cf",
         "endBackground": "#e1d8cf",
         "startBorderColor": "#e1d8cf",
@@ -42,11 +42,11 @@
       "ContrastBorderColor": "#B3B3B3"
     },
     "ComboBox": {
-      "nonEditableBackground": "#000000",
+      "nonEditableBackground": "#bab3ab",
       "ArrowButton": {
         "iconColor": "#FFFFFF",
         "disabledIconColor": "#AA6E28",
-        "nonEditableBackground": "#000000"
+        "nonEditableBackground": "#bab3ab"
       }
     },
     "Label.background": "#e1d8cf",

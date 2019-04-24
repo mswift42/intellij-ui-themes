@@ -49,7 +49,49 @@
         "nonEditableBackground": "#bab3ab"
       }
     },
-    "Label.background": "#e1d8cf",
-    "TabbedPane.background": "#e1d8cf"
+    "ComboPopup.border": "1,1,1,1,E6E6E6",
+    "CompletionPopup": {
+      "matchForeground": "#ED94FF",
+      "matchSelectionForeground": "#ED94FF"
+    },
+    "Component": {
+      "errorFocusColor": "#E6194B",
+      "inactiveErrorFocusColor": "#800002",
+      "warningFocusColor": "#F58231",
+      "inactiveWarningFocusColor": "#804605",
+      "iconColor": "#FFFFFF",
+      "hoverIconColor": "#FFFFFF"
+    },
+    "Counter": {
+      "background": "#FFFFFF",
+      "foreground": "#000000"
+    },
+    "DebuggerPopup.borderColor": "#E6E6E6",
+    "DebuggerTabs.selectedBackground": "#000080",
+    "DragAndDrop": {
+      "areaForeground": "#FFFFFF",
+      "areaBackground": "#00838f",
+      "areaBorderColor": "#1AEBFF"
+    },
+    "Editor": {
+      "background": "#e1d8cf",
+      "foreground": "#656565",
+      "shortcutForeground": "#D2F53C"
+    },
+    "EditorPane.inactiveBackground": "#f5ebe1",
+    "EditorTabs": {
+      "selectedForeground": "#585858",
+      "selectedBackground": "#bab3ab",
+      "underlineColor": "#f5ebe1",
+      "inactiveMaskColor": "#f5ebe1"
+    },
+    "FileColor": {
+      "Yellow": "#381C00",
+      "Green": "#092E15",
+      "Blue": "#00004D",
+      "Violet": "#471747",
+      "Orange": "#733000",
+      "Rose": "#4D0F22"
+    }
   }
 }

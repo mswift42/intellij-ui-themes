@@ -81,9 +81,9 @@
     "EditorPane.inactiveBackground": "#f5ebe1",
     "EditorTabs": {
       "selectedForeground": "#585858",
-      "selectedBackground": "#bab3ab",
+      "selectedBackground": "#f7eee6",
       "underlineColor": "#f5ebe1",
-      "inactiveMaskColor": "#f5ebe1"
+      "inactiveMaskColor": "#dad1c8"
     },
     "FileColor": {
       "Yellow": "#381C00",

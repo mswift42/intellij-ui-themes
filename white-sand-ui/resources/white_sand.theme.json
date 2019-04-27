@@ -18,8 +18,8 @@
       "separatorColor": "#bab3ab"
     },
     "ActionButton": {
-      "hoverBackground": "#000000",
-      "pressedBackground": "#000000",
+      "hoverBackground": "#e1d8cf",
+      "pressedBackground": "#f5ebe1",
       "hoverBorderColor": "#4a858c",
       "pressedBorderColor": "#4a858c"
     },
@@ -66,8 +66,8 @@
       "background": "#FFFFFF",
       "foreground": "#000000"
     },
-    "DebuggerPopup.borderColor": "#E6E6E6",
-    "DebuggerTabs.selectedBackground": "#000080",
+    "DebuggerPopup.borderColor": "#bab3ab",
+    "DebuggerTabs.selectedBackground": "#f7eee6",
     "DragAndDrop": {
       "areaForeground": "#FFFFFF",
       "areaBackground": "#00838f",

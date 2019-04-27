@@ -34,7 +34,7 @@
         "endBackground": "#e1d8cf",
         "startBorderColor": "#e1d8cf",
         "endBorderColor": "#e1d8cf",
-        "focusedBorderColor": "#000000"
+        "focusedBorderColor": "#f7eee6"
       }
     },
     "Borders": {
@@ -44,9 +44,9 @@
     "ComboBox": {
       "nonEditableBackground": "#bab3ab",
       "ArrowButton": {
-        "iconColor": "#FFFFFF",
-        "disabledIconColor": "#AA6E28",
-        "nonEditableBackground": "#bab3ab"
+        "iconColor": "#656565",
+        "disabledIconColor": "#bab3ab",
+        "nonEditableBackground": "#e1d8cf"
       }
     },
     "ComboPopup.border": "1,1,1,1,E6E6E6",
@@ -86,12 +86,12 @@
       "inactiveMaskColor": "#dad1c8"
     },
     "FileColor": {
-      "Yellow": "#381C00",
-      "Green": "#092E15",
-      "Blue": "#00004D",
-      "Violet": "#471747",
-      "Orange": "#733000",
-      "Rose": "#4D0F22"
+      "Yellow": "#e5f0f1",
+      "Green": "#ddf6f9",
+      "Blue": "#f3e7e3",
+      "Violet": "#f1e5ee",
+      "Orange": "#e9f0e6",
+      "Rose": "#f3e4e3"
     }
   }
 }

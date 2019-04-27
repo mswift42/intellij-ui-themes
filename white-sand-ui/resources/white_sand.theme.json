@@ -8,8 +8,8 @@
       "background": "#f5ebe1",
       "inactiveBackground": "#e1d8cf",
       "disabledBackground": "#e1d8cf",
-      "acceleratorForeground": "#656565",
-      "acceleratorSelectionForeground": "#656565",
+      "acceleratorForeground": "#585858",
+      "acceleratorSelectionForeground": "#585858",
       "errorForeground": "#ff1276",
       "borderColor": "#bab3ab",
       "disabledBorderColor": "#e1d8cf",
@@ -29,7 +29,7 @@
       "startBorderColor": "#cec5bd",
       "endBorderColor": "#cec5bd",
       "default": {
-        "foreground": "#656565",
+        "foreground": "#585858",
         "startBackground": "#e1d8cf",
         "endBackground": "#e1d8cf",
         "startBorderColor": "#e1d8cf",
@@ -44,7 +44,7 @@
     "ComboBox": {
       "nonEditableBackground": "#bab3ab",
       "ArrowButton": {
-        "iconColor": "#656565",
+        "iconColor": "#585858",
         "disabledIconColor": "#bab3ab",
         "nonEditableBackground": "#e1d8cf"
       }
@@ -63,7 +63,7 @@
       "hoverIconColor": "#f5ebe1"
     },
     "Counter": {
-      "background": "#656565",
+      "background": "#585858",
       "foreground": "#f7eee6"
     },
     "DebuggerPopup.borderColor": "#bab3ab",
@@ -75,7 +75,7 @@
     },
     "Editor": {
       "background": "#e1d8cf",
-      "foreground": "#656565",
+      "foreground": "#585858",
       "shortcutForeground": "#bab3ab"
     },
     "EditorPane.inactiveBackground": "#f5ebe1",

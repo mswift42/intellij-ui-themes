@@ -55,23 +55,23 @@
       "matchSelectionForeground": "#ED94FF"
     },
     "Component": {
-      "errorFocusColor": "#E6194B",
-      "inactiveErrorFocusColor": "#800002",
-      "warningFocusColor": "#F58231",
-      "inactiveWarningFocusColor": "#804605",
-      "iconColor": "#FFFFFF",
-      "hoverIconColor": "#FFFFFF"
+      "errorFocusColor": "#ffe1d7",
+      "inactiveErrorFocusColor": "#ffd7e8",
+      "warningFocusColor": "#ffe1d7",
+      "inactiveWarningFocusColor": "#ffd7e8",
+      "iconColor": "#f5ebe1",
+      "hoverIconColor": "#f5ebe1"
     },
     "Counter": {
-      "background": "#FFFFFF",
-      "foreground": "#000000"
+      "background": "#656565",
+      "foreground": "#f7eee6"
     },
     "DebuggerPopup.borderColor": "#bab3ab",
     "DebuggerTabs.selectedBackground": "#f7eee6",
     "DragAndDrop": {
-      "areaForeground": "#FFFFFF",
-      "areaBackground": "#00838f",
-      "areaBorderColor": "#1AEBFF"
+      "areaForeground": "#656565  ",
+      "areaBackground": "#f7eee6",
+      "areaBorderColor": "#f5ebe1"
     },
     "Editor": {
       "background": "#e1d8cf",
@@ -90,7 +90,7 @@
       "Green": "#ddf6f9",
       "Blue": "#f3e7e3",
       "Violet": "#f1e5ee",
-      "Orange": "#e9f0e6",
+      "Orange": "#ffd7e8",
       "Rose": "#f3e4e3"
     }
   }

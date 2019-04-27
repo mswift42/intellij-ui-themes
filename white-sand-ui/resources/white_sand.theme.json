@@ -51,8 +51,8 @@
     },
     "ComboPopup.border": "1,1,1,1,E6E6E6",
     "CompletionPopup": {
-      "matchForeground": "#ED94FF",
-      "matchSelectionForeground": "#ED94FF"
+      "matchForeground": "#e1d8cf",
+      "matchSelectionForeground": "#e1d8cf"
     },
     "Component": {
       "errorFocusColor": "#ffe1d7",
@@ -76,7 +76,7 @@
     "Editor": {
       "background": "#e1d8cf",
       "foreground": "#656565",
-      "shortcutForeground": "#D2F53C"
+      "shortcutForeground": "#bab3ab"
     },
     "EditorPane.inactiveBackground": "#f5ebe1",
     "EditorTabs": {

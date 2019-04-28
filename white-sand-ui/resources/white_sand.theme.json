@@ -117,7 +117,7 @@
       "background": "#e1d8cf",
       "borderColor": "#656565"
     },
-    "Label.selectedDisabledForeground": "#E86310",
+    "Label.selectedDisabledForeground": "#ff4d12",
     "Link": {
       "activeForeground": "#A3D6CC",
       "hoverForeground": "#A3D6CC",
@@ -254,11 +254,11 @@
     },
     "TableHeader.cellBorder": "8,0,8,0",
     "Table": {
-      "stripeColor": "#000033",
+      "stripeColor": "#e9f0e6",
       "lightSelectionForeground": "#585858",
       "lightSelectionInactiveForeground": "#585858",
       "lightSelectionBackground": "#e1d8cf",
-      "lightSelectionInactiveBackground": "#383838"
+      "lightSelectionInactiveBackground": "#a9a9a9"
     },
     "ToggleButton": {
       "onForeground": "#585858",
@@ -278,10 +278,10 @@
         "inactiveBackground": "#e1d8cf"
       },
       "HeaderTab": {
-        "selectedBackground": "#9C23D9FF",
-        "selectedInactiveBackground": "#4D0080FF",
-        "hoverBackground": "#9C23D9FF",
-        "hoverInactiveBackground": "#4D0080FF"
+        "selectedBackground": "#F1E5EEFF",
+        "selectedInactiveBackground": "#BAB3ABFF",
+        "hoverBackground": "#F1E5EEFF",
+        "hoverInactiveBackground": "#BAB3ABFF"
       },
       "Button": {
         "hoverBackground": "#cec5bd",
@@ -297,14 +297,14 @@
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#0D0D40",
-        "unmatchedForeground": "#E86310"
+        "currentBranchBackground": "#F3E4E3",
+        "unmatchedForeground": "#ff4d12"
       },
       "RefLabel": {
         "backgroundBase": "#cec5bd",
         "backgroundBrightness": 0.7
       },
-      "FileHistory.Commit.selectedBranchBackground": "#0D0D40"
+      "FileHistory.Commit.selectedBranchBackground": "#F3E4E3"
     },
     "WelcomeScreen": {
       "Projects.selectionInactiveBackground": "#cec5bd",
@@ -316,17 +316,17 @@
     "ColorPalette": {
       "Actions.Grey": "#585858",
       "Actions.Red": "#FF3633",
-      "Actions.Yellow": "#656565",
+      "Actions.Yellow": "#8a8c4a",
       "Actions.Green": "#4A8C50",
-      "Actions.Blue": "#00EAFF",
+      "Actions.Blue": "#4A688C",
       "Actions.GreyInline.Dark": "#585858FF",
       "Objects.Grey": "#585858FF",
       "Objects.RedStatus": "#FF4340FF",
       "Objects.Red": "#FF4340FF",
       "Objects.Pink": "#FF8FA2FF",
-      "Objects.Yellow": "#656565FF",
+      "Objects.Yellow": "#8a8c4aFF",
       "Objects.Green": "#4A8C50FF",
-      "Objects.Blue": "#00EAFFFF",
+      "Objects.Blue": "#4A688CFF",
       "Objects.Purple": "#A880FFFF",
       "Objects.BlackText": "#f5ebe1FF",
       "Objects.YellowDark": "#656565FF",

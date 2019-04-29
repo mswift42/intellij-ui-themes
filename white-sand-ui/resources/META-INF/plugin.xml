@@ -1,17 +1,16 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>white-sand-ui</id>
+  <name>white-sand-ui</name>
   <version>1.0</version>
-  <vendor email="" url="github.com/mswift42">YourCompany</vendor>
+  <vendor email="martin.haesler@gmail.com" url="github.com/mswift42">github.com/mswift42</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      Custom Ui light ui theme for 2019.1 Intellij Editors.
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      Initial release of the plugin.
+      Add white-sand xml theme file.
     ]]>
   </change-notes>
 

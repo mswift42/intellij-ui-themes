@@ -119,10 +119,10 @@
     },
     "Label.selectedDisabledForeground": "#ff4d12",
     "Link": {
-      "activeForeground": "#A3D6CC",
-      "hoverForeground": "#A3D6CC",
-      "pressedForeground": "#A3D6CC",
-      "visitedForeground": "#A3D6CC"
+      "activeForeground": "#697024",
+      "hoverForeground": "#697024",
+      "pressedForeground": "#697024",
+      "visitedForeground": "#697024"
     },
     "NavBar.borderColor": "#585858",
     "Notification": {

@@ -88,7 +88,7 @@
       "inactiveMaskColor": "#243549"
     },
     "FileColor": {
-      "Yellow": "#0d122c",
+      "Yellow": "#2c2b10",
       "Green": "#0b242e",
       "Blue": "#1c1c1c",
       "Violet": "#2f0d0a",
@@ -299,7 +299,7 @@
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#281121",
+        "currentBranchBackground": "#102025",
         "unmatchedForeground": "#e86310"
       },
       "RefLabel": {

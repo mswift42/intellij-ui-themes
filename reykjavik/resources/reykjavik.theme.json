@@ -88,7 +88,7 @@
       "inactiveMaskColor": "#243549"
     },
     "FileColor": {
-      "Yellow": "#2c2b10",
+      "Yellow": "#5c603e",
       "Green": "#0b242e",
       "Blue": "#1c1c1c",
       "Violet": "#2f0d0a",
@@ -318,7 +318,7 @@
     "ColorPalette": {
       "Actions.Grey": "#b1b1b1",
       "Actions.Red": "#FF3633",
-      "Actions.Yellow": "#8a8c4a",
+      "Actions.Yellow": "#6a7042",
       "Actions.Green": "#4A8C50",
       "Actions.Blue": "#4A688C",
       "Actions.GreyInline.Dark": "#b1b1b1FF",

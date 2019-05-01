@@ -9,8 +9,8 @@
         <option name="FILESTATUS_ADDED" value="bccff9"/>
         <option name="FILESTATUS_COPIED" value="bccff9"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a3d6cc"/>
-        <option name="FILESTATUS_RENAMED" value="7c7c"/>
         <option name="FILESTATUS_MODIFIED" value="f1c1bd"/>
+        <option name="FILESTATUS_RENAMED" value="7c7c"/>
         <option name="FILESTATUS_UNKNOWN" value="e1c9aa"/>
         <option name="GUTTER_BACKGROUND" value="243539"/>
         <option name="INDENT_GUIDE" value="243539"/>
@@ -21,7 +21,7 @@
         <option name="READONLY_FRAGMENT_BACKGROUND" value=""/>
         <option name="RIGHT_MARGIN_COLOR" value="243539"/>
         <option name="SELECTED_INDENT_GUIDE" value="a3a3a3"/>
-        <option name="SELECTED_TEARLINE_COLOR" value=""/>
+        <option name="SELECTED_TEARLINE_COLOR" value="585858"/>
         <option name="SELECTION_BACKGROUND" value="243539"/>
         <option name="SELECTION_FOREGROUND" value="a3a3a3"/>
         <option name="TEARLINE_COLOR" value="a3a3a3"/>
@@ -173,23 +173,21 @@
         </option>
         <option name="BREADCRUMBS_CURRENT">
             <value>
-                <option name="FOREGROUND" value="a3d4e8" />
+                <option name="FOREGROUND" value="a3d4e8"/>
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
-            <value>
-                <option name="FOREGROUND" value="" />
-            </value>
+            <value/>
         </option>
         <option name="BREADCRUMBS_HOVERED">
             <value>
-                <option name="FOREGROUND" value="b1b1b1" />
-                <option name="BACKGROUND" value="4a558c" />
+                <option name="FOREGROUND" value="b1b1b1"/>
+                <option name="BACKGROUND" value="4a558c"/>
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="5d5d5d" />
+                <option name="FOREGROUND" value="5d5d5d"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -893,8 +891,8 @@
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="0b242e"/>
-                <option name="ERROR_STRIPE_COLOR" value="#99ccff"/>
+                <option name="BACKGROUND" value="b242e"/>
+                <option name="ERROR_STRIPE_COLOR" value="99ccff"/>
             </value>
         </option>
         <option name="DJANGO_COMMENT">

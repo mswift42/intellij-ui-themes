@@ -6,8 +6,11 @@
   "ui": {
     "*": {
       "background": "#ece3db",
+      "foreground": "#585858",
       "inactiveBackground": "#d9d1c9",
       "disabledBackground": "#d9d1c9",
+      "selectionBackground": "#c6bfb8",
+      "selectionInactiveBackground": "#d9d1c9",
       "acceleratorForeground": "#585858",
       "acceleratorSelectionForeground": "#585858",
       "errorForeground": "#ff1276",
@@ -49,7 +52,7 @@
         "nonEditableBackground": "#d9d1c9"
       }
     },
-    "ComboPopup.border": "1,1,1,1,E6E6E6",
+    "ComboPopup.border": "1,1,1,1,#d9d1c9",
     "CompletionPopup": {
       "matchForeground": "#d9d1c9",
       "matchSelectionForeground": "#d9d1c9"
@@ -297,7 +300,7 @@
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#d6daf1",
+        "currentBranchBackground": "#d9d1c9",
         "unmatchedForeground": "#ff4d12"
       },
       "RefLabel": {

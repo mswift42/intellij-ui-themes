@@ -89,7 +89,7 @@
       "inactiveMaskColor": "#e1d8cf"
     },
     "FileColor": {
-      "Yellow": "#e5f0f1",
+      "Yellow": "#f0f0e4",
       "Green": "#ddf6f9",
       "Blue": "#656565",
       "Violet": "#f1e5ee",
@@ -198,11 +198,11 @@
       "failedColor": "#ff1276",
       "failedEndColor": "#ffd7e8",
       "passedColor": "#4A8C50",
-      "passedEndColor": "#e5f0f1"
+      "passedEndColor": "#f0eee4"
     },
     "ScrollBar": {
       "Transparent": {
-        "thumbColor": "#585858",
+        "thumbColor": "#bab3ab",
         "thumbBorderColor": "#f5ebe1C8",
         "hoverThumbColor": "#656565",
         "hoverThumbBorderColor": "#f5ebe1C8",

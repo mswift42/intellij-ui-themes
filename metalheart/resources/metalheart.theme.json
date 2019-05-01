@@ -6,8 +6,10 @@
   "ui": {
     "*": {
       "background": "#1d272a",
+      "foreground": "8693ae",
       "inactiveBackground": "#2f383b",
       "disabledBackground": "#2f383b",
+      "selectionBackground": "#414a4c",
       "acceleratorForeground": "#8693ae",
       "acceleratorSelectionForeground": "#8693ae",
       "errorForeground": "#ff0000",
@@ -93,7 +95,7 @@
       "Orange": "#472600",
       "Rose": "#2d1a21"
     },
-     "FlameGraph": {
+    "FlameGraph": {
       "JVMBackground": "#7b87a0",
       "JVMSearchNotMatchedBackground": "#535b5d",
       "nativeBackground": "#8693ae",

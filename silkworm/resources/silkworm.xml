@@ -10,6 +10,12 @@
     <option name="CARET_COLOR" value="808080" />
     <option name="CARET_ROW_COLOR" value="d9d1c9" />
     <option name="CONSOLE_BACKGROUND_KEY" value="ece3db" />
+    <option name="FILESTATUS_ADDED" value="367a7f"/>
+    <option name="FILESTATUS_COPIED" value="656565"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a74f31"/>
+    <option name="FILESTATUS_RENAMED" value="ad4271"/>
+    <option name="FILESTATUS_MODIFIED" value="3b4bab"/>
+    <option name="FILESTATUS_UNKNOWN" value="76690b"/>
     <option name="GUTTER_BACKGROUND" value="d9d1c9" />
     <option name="INDENT_GUIDE" value="d9d1c9" />
     <option name="LINE_NUMBERS_COLOR" value="656565" />
@@ -167,6 +173,27 @@
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="ff1276" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="367a7f" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="656565" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="" />
+        <option name="BACKGROUND" value="b3ada6" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">

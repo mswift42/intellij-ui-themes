@@ -249,7 +249,7 @@
       "borderColor": "#1d272a",
       "background": "#8693ae"
     },
-    "StatusBar.borderColor": "#8693ae",
+    "StatusBar.borderColor": "#535b5d",
     "TabbedPane": {
       "underlineColor": "#8693ae",
       "disabledUnderlineColor": "#535b5d",
@@ -269,7 +269,7 @@
       "offForeground": "#8693ae",
       "offBackground": "#1d272a",
       "buttonColor": "#8693ae",
-      "borderColor": "#8693ae"
+      "borderColor": "#535b5d"
     },
     "ToolTip": {
       "background": "#2f383b",
@@ -313,7 +313,7 @@
       "Projects.selectionInactiveBackground": "#414a4c",
       "separatorColor": "#7b87a0"
     },
-    "Window.border": "1,1,1,1,E6E6E6"
+    "Window.border": "1,1,1,1,535b5d"
   },
   "icons": {
     "ColorPalette": {

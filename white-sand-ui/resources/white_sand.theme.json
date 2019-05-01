@@ -16,15 +16,15 @@
       "errorForeground": "#ff1276",
       "borderColor": "#bab3ab",
       "disabledBorderColor": "#e1d8cf",
-      "focusColor": "#4a858c",
-      "focusedBorderColor": "#4a858c",
+      "focusColor": "#585858",
+      "focusedBorderColor": "#585858",
       "separatorColor": "#bab3ab"
     },
     "ActionButton": {
       "hoverBackground": "#e1d8cf",
       "pressedBackground": "#f5ebe1",
-      "hoverBorderColor": "#4a858c",
-      "pressedBorderColor": "#4a858c"
+      "hoverBorderColor": "#585858",
+      "pressedBorderColor": "#585858"
     },
     "Button": {
       "startBackground": "#e1d8cf",

@@ -19,6 +19,7 @@
       "focusedBorderColor": "#a3d4e8",
       "separatorColor": "#4a585c"
     },
+    "SplitPaneDivider.draggingColor": "#4a585c",
     "ActionButton": {
       "hoverBackground": "#243549",
       "pressedBackground": "#112328",

@@ -45,14 +45,14 @@
       "ContrastBorderColor": "#5c5c5c"
     },
     "ComboBox": {
-      "nonEditableBackground": "#5c5c5c",
+      "nonEditableBackground": "#3a3a3a",
       "ArrowButton": {
         "iconColor": "#8f8f8f",
         "disabledIconColor": "#5c5c5c",
         "nonEditableBackground": "#3a3a3a"
       }
     },
-    "ComboPopup.border": "1,1,1,1,E6E6E6",
+    "ComboPopup.border": "1,1,1,1,3a3a3a",
     "CompletionPopup": {
       "matchForeground": "#3a3a3a",
       "matchSelectionForeground": "#3a3a3a"

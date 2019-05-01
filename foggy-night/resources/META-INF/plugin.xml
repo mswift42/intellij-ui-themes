@@ -26,6 +26,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
+      <themeProvider id="2be5a3fe-d4c1-46af-94f0-bfffda26ac1d" path="/foggy_night.theme.json"/>
   </extensions>
 
   <actions>

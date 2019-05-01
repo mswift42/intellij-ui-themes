@@ -52,7 +52,7 @@
         "nonEditableBackground": "#2f383b"
       }
     },
-    "ComboPopup.border": "1,1,1,1,E6E6E6",
+    "ComboPopup.border": "1,1,1,1,535b5d",
     "CompletionPopup": {
       "matchForeground": "#2f383b",
       "matchSelectionForeground": "#2f383b"
@@ -127,7 +127,7 @@
       "pressedForeground": "5980a3",
       "visitedForeground": "5980a3"
     },
-    "NavBar.borderColor": "#8693ae",
+    "NavBar.borderColor": "#535b5d",
     "Notification": {
       "background": "#1d272a",
       "errorForeground": "#8693ae",
@@ -257,7 +257,7 @@
     },
     "TableHeader.cellBorder": "8,0,8,0",
     "Table": {
-      "stripeColor": "#e9f0e6",
+      "stripeColor": "#7b87a0",
       "lightSelectionForeground": "#8693ae",
       "lightSelectionInactiveForeground": "#8693ae",
       "lightSelectionBackground": "#2f383b",

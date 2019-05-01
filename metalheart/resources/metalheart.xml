@@ -2,7 +2,7 @@
 <scheme name="metalheart" version="142" parent_scheme="Default">
     <option name="LINE_SPACING" value="1.2"/>
     <option name="EDITOR_FONT_SIZE" value="13"/>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro 13"/>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro 14"/>
     <colors>
         <option name="ADDED_LINES_COLOR" value="717b92"/>
         <option name="ANNOTATIONS_COLOR" value="717b92"/>

@@ -10,6 +10,7 @@
       "inactiveBackground": "#2f383b",
       "disabledBackground": "#2f383b",
       "selectionBackground": "#414a4c",
+      "selectionInactiveBackground": "#2f383b",
       "acceleratorForeground": "#8693ae",
       "acceleratorSelectionForeground": "#8693ae",
       "errorForeground": "#ff0000",

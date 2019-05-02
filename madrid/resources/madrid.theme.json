@@ -6,8 +6,11 @@
   "ui": {
     "*": {
       "background": "#1b1b1b",
+      "foreground": "#b1b1b1",
       "inactiveBackground": "#2d2d2d",
       "disabledBackground": "#2d2d2d",
+      "selectionBackground": "#3f3f3f",
+      "selectionInactiveBackground": "#2d2d2d",
       "acceleratorForeground": "#b1b1b1",
       "acceleratorSelectionForeground": "#b1b1b1",
       "errorForeground": "#e81050",
@@ -49,7 +52,7 @@
         "nonEditableBackground": "#2d2d2d"
       }
     },
-    "ComboPopup.border": "1,1,1,1,E6E6E6",
+    "ComboPopup.border": "1,1,1,1,#2d2d2d",
     "CompletionPopup": {
       "matchForeground": "#2d2d2d",
       "matchSelectionForeground": "#2d2d2d"
@@ -93,7 +96,7 @@
       "Orange": "#331603",
       "Rose": "#1d2016"
     },
-     "FlameGraph": {
+    "FlameGraph": {
       "JVMBackground": "#a3a3a3",
       "JVMSearchNotMatchedBackground": "#525252",
       "nativeBackground": "#b1b1b1",
@@ -297,7 +300,7 @@
     },
     "VersionControl": {
       "Log.Commit": {
-        "currentBranchBackground": "#1d2016",
+        "currentBranchBackground": "#2d2d2d",
         "unmatchedForeground": "#e86310"
       },
       "RefLabel": {
@@ -310,7 +313,7 @@
       "Projects.selectionInactiveBackground": "#3f3f3f",
       "separatorColor": "#a3a3a3"
     },
-    "Window.border": "1,1,1,1,E6E6E6"
+    "Window.border": "1,1,1,1,#3f3f3f"
   },
   "icons": {
     "ColorPalette": {
@@ -321,13 +324,13 @@
       "Actions.Blue": "#4A688C",
       "Actions.GreyInline.Dark": "#b1b1b1FF",
       "Objects.Grey": "#b1b1b1FF",
-      "Objects.RedStatus": "#FF4340FF",
-      "Objects.Red": "#FF4340FF",
-      "Objects.Pink": "#FF8FA2FF",
-      "Objects.Yellow": "#8a8c4aFF",
-      "Objects.Green": "#4A8C50FF",
+      "Objects.RedStatus": "#a44242FF",
+      "Objects.Red": "#a44242FF",
+      "Objects.Pink": "#8c4a7cFF",
+      "Objects.Yellow": "#b0a13fFF",
+      "Objects.Green": "#4b834eFF",
       "Objects.Blue": "#4A688CFF",
-      "Objects.Purple": "#A880FFFF",
+      "Objects.Purple": "#884a8cFF",
       "Objects.BlackText": "#1b1b1bFF",
       "Objects.YellowDark": "#a3a3a3FF",
       "Objects.GreenAndroid": "#4A8C50FF",

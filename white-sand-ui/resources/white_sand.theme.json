@@ -202,7 +202,7 @@
     },
     "ScrollBar": {
       "Transparent": {
-        "thumbColor": "#585858",
+        "thumbColor": "#bab3ab",
         "thumbBorderColor": "#f5ebe1C8",
         "hoverThumbColor": "#656565",
         "hoverThumbBorderColor": "#f5ebe1C8",

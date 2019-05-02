@@ -7,7 +7,8 @@
     "*": {
       "background": "#112328",
       "foreground": "#b1b1b1",
-      "selectionBackground": "#243539",
+      "selectionBackground": "#80a6b6",
+      "selectionForeground": "#212121",
       "inactiveBackground": "#243549",
       "disabledBackground": "#243549",
       "acceleratorForeground": "#b1b1b1",
@@ -90,7 +91,7 @@
       "inactiveMaskColor": "#243549"
     },
     "FileColor": {
-      "Yellow": "#1c1c1c",
+      "Yellow": "#685d4e",
       "Green": "#0b242e",
       "Blue": "#1c1c1c",
       "Violet": "#2f0d0a",
@@ -326,7 +327,7 @@
       "Actions.GreyInline.Dark": "#b1b1b1FF",
       "Objects.Grey": "#b1b1b1FF",
       "Objects.RedStatus": "#f0bcc9FF",
-      "Objects.Red": "#f0bcc9ff",
+      "Objects.Red": "#f08e93ff",
       "Objects.Pink": "#FF8FA2FF",
       "Objects.Yellow": "#8a8c4aFF",
       "Objects.Green": "#4A8C50FF",

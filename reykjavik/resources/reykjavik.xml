@@ -3318,8 +3318,8 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="243539"/>
-                <option name="BACKGROUND" value="f1c1bd"/>
+                <option name="FOREGROUND" value="eaeaea"/>
+                <option name="BACKGROUND" value="243539"/>
                 <option name="ERROR_STRIPE_COLOR" value="e81050"/>
             </value>
         </option>

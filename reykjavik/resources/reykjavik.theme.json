@@ -53,7 +53,7 @@
         "nonEditableBackground": "#243549"
       }
     },
-    "ComboPopup.border": "1,1,1,1,E6E6E6",
+    "ComboPopup.border": "1,1,1,1,4a585c",
     "CompletionPopup": {
       "matchForeground": "#243549",
       "matchSelectionForeground": "#243549"

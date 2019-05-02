@@ -711,7 +711,7 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
-        <option name="DART.CONSTRUCTOR">
+        <option name="DART_CONSTRUCTOR">
             <value>
                 <option name="FOREGROUND" value="c1d2b1"/>
             </value>
@@ -880,25 +880,25 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="350412"/>
+                <option name="BACKGROUND" value="3e0515"/>
                 <option name="ERROR_STRIPE_COLOR" value="e86310"/>
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="102025"/>
-                <option name="ERROR_STRIPE_COLOR" value="102025"/>
+                <option name="BACKGROUND" value="a3a3a3"/>
+                <option name="ERROR_STRIPE_COLOR" value="a3a3a3"/>
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="281121"/>
+                <option name="BACKGROUND" value="1c3322"/>
                 <option name="ERROR_STRIPE_COLOR" value="99ff99"/>
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="b242e"/>
+                <option name="BACKGROUND" value="222c41"/>
                 <option name="ERROR_STRIPE_COLOR" value="99ccff"/>
             </value>
         </option>

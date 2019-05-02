@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>warm-night</id>
+  <name>warm-night</name>
+  <version>0.1</version>
+  <vendor email="martin.haesler@gmail.com" url="github.com/mswift42">mswift42</vendor>
+
+  <description><![CDATA[
+  Custom dark ui theme with warm pleasant colors.
+    ]]></description>
+
+  <change-notes><![CDATA[
+  Initial release of this plugin.
+  Added warm-night editor scheme file.
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+      <themeProvider id="c467f8b1-087b-4bfe-bfe8-f8906ec285cb" path="/warm_night.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

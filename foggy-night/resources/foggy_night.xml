@@ -28,6 +28,8 @@
         <option name="SELECTED_TEARLINE_COLOR" value=""/>
         <option name="SELECTION_BACKGROUND" value="3a3a3a"/>
         <option name="SELECTION_FOREGROUND" value="848484"/>
+        <option name="SEPARATOR_BELOW_COLOR" value="3a3a3a"/>
+        <option name="SEPARATOR_ABOVE_COLOR" value="3a3a3a"/>
         <option name="TEARLINE_COLOR" value="848484"/>
         <option name="WHITESPACES" value="848484"/>
     </colors>

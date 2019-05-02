@@ -313,7 +313,7 @@
       "Projects.selectionInactiveBackground": "#4b4b4b",
       "separatorColor": "#848484"
     },
-    "Window.border": "1,1,1,1,E6E6E6"
+    "Window.border": "1,1,1,1,4b4b4"
   },
   "icons": {
     "ColorPalette": {
@@ -324,7 +324,7 @@
       "Actions.Blue": "#4A688C",
       "Actions.GreyInline.Dark": "#8f8f8fFF",
       "Objects.Grey": "#8f8f8fFF",
-      "Objects.RedStatus": "#FF4340FF",
+      "Objects.RedStatus": "#a44242ff",
       "Objects.Red": "#c47d9f",
       "Objects.Pink": "#FF8FA2FF",
       "Objects.Yellow": "#8a8c4aFF",

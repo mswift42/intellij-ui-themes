@@ -711,6 +711,11 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
+        <option name="DART.CONSTRUCTOR">
+            <value>
+                <option name="FOREGROUND" value="c1d2b1"/>
+            </value>
+        </option>
         <option name="DARTKEYWORD">
             <value>
                 <option name="FOREGROUND" value="a3d4e8"/>

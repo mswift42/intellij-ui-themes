@@ -6,7 +6,7 @@
   "ui": {
     "*": {
       "background": "#1d272a",
-      "foreground": "8693ae",
+      "foreground": "#8693ae",
       "inactiveBackground": "#2f383b",
       "disabledBackground": "#2f383b",
       "selectionBackground": "#414a4c",
@@ -52,7 +52,7 @@
         "nonEditableBackground": "#2f383b"
       }
     },
-    "ComboPopup.border": "1,1,1,1,535b5d",
+    "ComboPopup.border": "1,1,1,1,#2f383b",
     "CompletionPopup": {
       "matchForeground": "#2f383b",
       "matchSelectionForeground": "#2f383b"
@@ -127,7 +127,7 @@
       "pressedForeground": "5980a3",
       "visitedForeground": "5980a3"
     },
-    "NavBar.borderColor": "#535b5d",
+    "NavBar.borderColor": "#8693ae",
     "Notification": {
       "background": "#1d272a",
       "errorForeground": "#8693ae",
@@ -249,7 +249,7 @@
       "borderColor": "#1d272a",
       "background": "#8693ae"
     },
-    "StatusBar.borderColor": "#535b5d",
+    "StatusBar.borderColor": "#8693ae",
     "TabbedPane": {
       "underlineColor": "#8693ae",
       "disabledUnderlineColor": "#535b5d",
@@ -257,7 +257,7 @@
     },
     "TableHeader.cellBorder": "8,0,8,0",
     "Table": {
-      "stripeColor": "#7b87a0",
+      "stripeColor": "#e9f0e6",
       "lightSelectionForeground": "#8693ae",
       "lightSelectionInactiveForeground": "#8693ae",
       "lightSelectionBackground": "#2f383b",
@@ -269,7 +269,7 @@
       "offForeground": "#8693ae",
       "offBackground": "#1d272a",
       "buttonColor": "#8693ae",
-      "borderColor": "#535b5d"
+      "borderColor": "#8693ae"
     },
     "ToolTip": {
       "background": "#2f383b",
@@ -313,7 +313,7 @@
       "Projects.selectionInactiveBackground": "#414a4c",
       "separatorColor": "#7b87a0"
     },
-    "Window.border": "1,1,1,1,535b5d"
+    "Window.border": "1,1,1,1,#414a4c"
   },
   "icons": {
     "ColorPalette": {
@@ -324,13 +324,13 @@
       "Actions.Blue": "#4A688C",
       "Actions.GreyInline.Dark": "#8693aeFF",
       "Objects.Grey": "#8693aeFF",
-      "Objects.RedStatus": "#FF4340FF",
-      "Objects.Red": "#ba7a7bFF",
-      "Objects.Pink": "#FF8FA2FF",
-      "Objects.Yellow": "#8a8c4aFF",
-      "Objects.Green": "#4A8C50FF",
+      "Objects.RedStatus": "#a44242FF",
+      "Objects.Red": "#a44242FF",
+      "Objects.Pink": "#8c4a7cFF",
+      "Objects.Yellow": "#b0a13fFF",
+      "Objects.Green": "#4b834eFF",
       "Objects.Blue": "#4A688CFF",
-      "Objects.Purple": "#A880FFFF",
+      "Objects.Purple": "#884a8cFF",
       "Objects.BlackText": "#1d272aFF",
       "Objects.YellowDark": "#7b87a0FF",
       "Objects.GreenAndroid": "#4A8C50FF",

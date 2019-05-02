@@ -2,7 +2,7 @@
   "name": "soft-charcoal",
   "dark": true,
   "author": "Martin Haesler",
-  "editorScheme": "/soft-charcoal.xml",
+  "editorScheme": "/soft_charcoal.xml",
   "ui": {
     "*": {
       "background": "#191919",

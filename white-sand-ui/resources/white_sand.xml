@@ -712,7 +712,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DART.CONSTRUCTOR">
+    <option name="DART_CONSTRUCTOR">
      <value>
     <option name="FOREGROUND" value="8c4a79" />
     </value> 
@@ -898,26 +898,26 @@
     </option>
     <option name="DIFF_CONFLICT">
         <value>
-            <option name="BACKGROUND" value="f5e1e7"/>
-            <option name="ERROR_STRIPE_COLOR" value="e86310"/>
+            <option name="BACKGROUND" value="f79e9e"/>
+            <option name="ERROR_STRIPE_COLOR" value="fa0c0c"/>
         </value>
     </option>
     <option name="DIFF_DELETED">
         <value>
-            <option name="BACKGROUND" value="d3d3d3"/>
-            <option name="ERROR_STRIPE_COLOR" value="d3d3d3"/>
+            <option name="BACKGROUND" value="e5e7e9"/>
+            <option name="ERROR_STRIPE_COLOR" value="e5e7e9"/>
         </value>
     </option>
     <option name="DIFF_INSERTED">
         <value>
-            <option name="BACKGROUND" value="e5f5e1"/>
-            <option name="ERROR_STRIPE_COLOR" value="144e06"/>
+            <option name="BACKGROUND" value="bef6dc"/>
+            <option name="ERROR_STRIPE_COLOR" value="284c24"/>
         </value>
     </option>
     <option name="DIFF_MODIFIED">
         <value>
-            <option name="BACKGROUND" value="e1e5f5"/>
-            <option name="ERROR_STRIPE_COLOR" value="384262"/>
+            <option name="BACKGROUND" value="bd5df6"/>
+            <option name="ERROR_STRIPE_COLOR" value="0c3f72"/>
         </value>
     </option>
     <option name="DJANGO_COMMENT">

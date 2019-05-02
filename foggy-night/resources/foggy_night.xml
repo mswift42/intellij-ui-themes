@@ -896,6 +896,30 @@
                 <option name="EFFECT_TYPE" value="3"/>
             </value>
         </option>
+        <option name="DIFF_CONFLICT">
+            <value>
+                <option name="BACKGROUND" value="3a3a3a"/>
+                <option name="ERROR_STRIPE_COLOR" value="e86310"/>
+            </value>
+        </option>
+        <option name="DIFF_DELETED">
+            <value>
+                <option name="BACKGROUND" value="331d1f"/>
+                <option name="ERROR_STRIPE_COLOR" value="e86310"/>
+            </value>
+        </option>
+        <option name="DIFF_INSERTED">
+            <value>
+                <option name="BACKGROUND" value="20331d"/>
+                <option name="ERROR_STRIPE_COLOR" value="e86310"/>
+            </value>
+        </option>
+        <option name="DIFF_MODIFIED">
+            <value>
+                <option name="BACKGROUND" value="1d2033"/>
+                <option name="ERROR_STRIPE_COLOR" value="e86310"/>
+            </value>
+        </option>
         <option name="DJANGO_COMMENT">
             <value>
                 <option name="FOREGROUND" value="626262"/>

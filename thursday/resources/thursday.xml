@@ -898,8 +898,8 @@
     </option>
     <option name="DIFF_CONFLICT">
         <value>
-            <option name="BACKGROUND" value="e5e7e9"/>
-            <option name="ERROR_STRIPE_COLOR" value="e86310"/>
+            <option name="BACKGROUND" value="f79e9e"/>
+            <option name="ERROR_STRIPE_COLOR" value="fa0c0c"/>
         </value>
     </option>
     <option name="DIFF_DELETED">
@@ -910,14 +910,14 @@
     </option>
     <option name="DIFF_INSERTED">
         <value>
-            <option name="BACKGROUND" value="e5e7e9"/>
-            <option name="ERROR_STRIPE_COLOR" value="fa7b0c"/>
+            <option name="BACKGROUND" value="bef6dc"/>
+            <option name="ERROR_STRIPE_COLOR" value="284c24"/>
         </value>
     </option>
     <option name="DIFF_MODIFIED">
         <value>
-            <option name="BACKGROUND" value="d1d3d5"/>
-            <option name="ERROR_STRIPE_COLOR" value="fa7b0c"/>
+            <option name="BACKGROUND" value="bd5df6"/>
+            <option name="ERROR_STRIPE_COLOR" value="0c3f72"/>
         </value>
     </option>
     <option name="DJANGO_COMMENT">

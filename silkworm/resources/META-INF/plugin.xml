@@ -1,17 +1,16 @@
 <idea-plugin>
   <id>silkworm</id>
   <name>silkworm</name>
-  <version>1.0.1</version>
+  <version>1.0.4</version>
   <vendor email="martin.haesler@gmail.com" url="github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
     Custum light ui theme fitting for silkworm editor theme.
-    <img src="https://github.com/mswift43/ith/blob/master/screenshots/silkworm.png" border="0" width="700"/>
+    <img src="https://raw.githubusercontent.com/mswift42/ith/master/screenshots/silkworm.png" border="0" width="700"/>
     ]]></description>
 
   <change-notes><![CDATA[
-    Added silkworm xml file.
-    Add silkworm screenshot.
+  Add module dependency tag, to target all products.
     ]]>
   </change-notes>
 
@@ -20,9 +19,7 @@
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
-  <!-- uncomment to enable plugin in all products
   <depends>com.intellij.modules.lang</depends>
-  -->
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->

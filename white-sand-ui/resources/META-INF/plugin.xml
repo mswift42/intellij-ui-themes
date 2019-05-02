@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>white-sand-ui</id>
   <name>white-sand-ui</name>
-  <version>0.1</version>
+  <version>0.2</version>
   <vendor email="martin.haesler@gmail.com" url="github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,8 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Initial release of the plugin.
-      Add white-sand xml theme file.
+  Improve DIFF colours. fix Dart_constructor entry.
     ]]>
   </change-notes>
 

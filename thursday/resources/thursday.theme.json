@@ -55,8 +55,13 @@
     },
     "ComboPopup.border": "1,1,1,1,#e5e7e9",
     "CompletionPopup": {
-      "matchForeground": "#e5e7e9",
-      "matchSelectionForeground": "#e5e7e9"
+      "matchForeground": "#111111",
+      "background": "#f5f7f9",
+      "foreground": "#000000",
+      "selectionBackground": "#adebff",
+      "selectionForeground": "#000000",
+      "selectionInactiveBackground": "#3cacd8",
+      "nonFocusedState": "#f9fbfd"
     },
     "Component": {
       "errorFocusColor": "#fff7f7",
@@ -118,10 +123,12 @@
       "parentFocusedFrameForeground": "#2f2f2f"
     },
     "InplaceRefactoringPopup": {
-      "background": "#e5e7e9",
       "borderColor": "#404040"
     },
-    "Label.selectedDisabledForeground": "#fa7b0c",
+    "Label": {
+      "selectedForeground": "#111111",
+      "disabledForeground": "#808080"
+    },
     "Link": {
       "activeForeground": "#28766e",
       "hoverForeground": "#28766e",
@@ -273,8 +280,8 @@
       "borderColor": "#2f2f2f"
     },
     "ToolTip": {
-      "background": "#e5e7e9",
-      "Actions.background": "#e5e7e9"
+      "background": "#f5f7f9",
+      "Actions.background": "#bdbfc0"
     },
     "ToolWindow": {
       "Header": {

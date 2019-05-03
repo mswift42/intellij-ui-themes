@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>foggy-night</id>
   <name>foggy-night</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -10,8 +10,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-  Specify minimmum idea-version.
-  update vendor url.
+  Improve Completion popup colors.
+  set matchselectionfg color to white.
     ]]>
   </change-notes>
 

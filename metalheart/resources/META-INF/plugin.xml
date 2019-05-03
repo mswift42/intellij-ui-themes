@@ -1,20 +1,21 @@
 <idea-plugin>
   <id>MetalHeart</id>
   <name>MetalHeart</name>
-  <version>0.1.1</version>
-  <vendor email="martin.haesler@gmail.com" url="github.com/mswift42">mswift42</vendor>
+  <version>0.1.2</version>
+  <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
   Custom dark ui theme with low contrast colors.
     ]]></description>
 
   <change-notes><![CDATA[
-  Set colours for selectedForeground / Background.
+  set minimum idea version.
+  fix vendor url.
     ]]>
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->

@@ -56,8 +56,12 @@
     },
     "ComboPopup.border": "1,1,1,1,4a585c",
     "CompletionPopup": {
-      "matchForeground": "#243549",
-      "matchSelectionForeground": "#243549"
+      "matchForeground": "#a3d4e8",
+      "nonFocusedState": "#243549",
+      "matchSelectionForeground": "#ffffff",
+      "selectionInactiveBackground": "#243549",
+      "selectionInactiveInfoForeground": "#e6c2db",
+      "selectionInfoForeground": "#ffffff"
     },
     "Component": {
       "errorFocusColor": "#350412",

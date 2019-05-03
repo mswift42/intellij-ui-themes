@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>silkworm</id>
   <name>silkworm</name>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -10,8 +10,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-  Specify idea-version.
-  update vendor url.
+  Improve Completion Popup colors. set matchselectionfg to black.
     ]]>
   </change-notes>
 

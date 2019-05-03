@@ -59,7 +59,7 @@
       "matchSelectionForeground": "#ffffff",
       "selectionInactiveBackground": "#3a3a3a",
       "selectionInactiveInfoForeground": "#ad7176",
-      "selectionInfoForeground": "#ffffff",
+      "selectionInfoForeground": "#ffffff"
     },
     "Component": {
       "errorFocusColor": "#4d051a",

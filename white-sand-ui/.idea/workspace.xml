@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01c807a8-7711-4c69-9c54-32d37f0766f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../metalheart/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metalheart/resources/metalheart.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/resources/metalheart.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/out/production/white-sand-ui/white_sand.theme.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="147">
+                  <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../foggy-night/resources/foggy_night.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="14952">
+                  <caret line="712" column="20" selection-start-line="712" selection-start-column="20" selection-end-line="712" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/out/production/white-sand-ui/white_sand.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/white_sand.theme.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1134">
+                  <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/white_sand.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="14994">
+                  <caret line="714" column="22" selection-start-line="714" selection-start-column="22" selection-end-line="714" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resources/white_sand.theme.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="526">
+                  <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ThemeEditorColorScheme" />
+        <option value="ThemeJson" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#a3d6cc</find>
+      <find>#e5f0f1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#697024</replace>
+      <replace>#f0eee4</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/out/production/white-sand-ui/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/out/production/white-sand-ui/white_sand.theme.json" />
+        <option value="$PROJECT_DIR$/resources/white_sand.xml" />
+        <option value="$PROJECT_DIR$/out/production/white-sand-ui/white_sand.xml" />
+        <option value="$PROJECT_DIR$/resources/white_sand.theme.json" />
+        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="crxaCTjI" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="y" value="-4" />
+    <option name="width" value="960" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="white-sand-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="white-sand-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="white-sand-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="white-sand-ui" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="white-sand-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="white-sand-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="white-sand-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="white-sand-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="white-sand-ui" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="white-sand-ui" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c807a8-7711-4c69-9c54-32d37f0766f3" name="Default Changelist" comment="" />
+      <created>1555680238438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555680238438</updated>
+      <workItem from="1555680245014" duration="1240000" />
+      <workItem from="1555759482043" duration="173000" />
+      <workItem from="1555842892442" duration="1290000" />
+      <workItem from="1555910860768" duration="14000" />
+      <workItem from="1556033291402" duration="2354000" />
+      <workItem from="1556116171699" duration="2007000" />
+      <workItem from="1556118429387" duration="4667000" />
+      <workItem from="1556201479406" duration="3077000" />
+      <workItem from="1556208608561" duration="205000" />
+      <workItem from="1556291719088" duration="56000" />
+      <workItem from="1556352738874" duration="5285000" />
+      <workItem from="1556358057878" duration="6945000" />
+      <workItem from="1556446836382" duration="7923000" />
+      <workItem from="1556510750836" duration="3126000" />
+      <workItem from="1556542497328" duration="1989000" />
+      <workItem from="1556547714257" duration="37000" />
+      <workItem from="1556637787344" duration="214000" />
+      <workItem from="1556686460060" duration="2212000" />
+      <workItem from="1556706225689" duration="1159000" />
+      <workItem from="1556707554527" duration="184000" />
+      <workItem from="1556720373820" duration="623000" />
+      <workItem from="1556722133251" duration="272000" />
+      <workItem from="1556722434666" duration="58000" />
+      <workItem from="1556722552525" duration="608000" />
+      <workItem from="1556724122242" duration="64000" />
+      <workItem from="1556795626044" duration="850000" />
+      <workItem from="1556796504231" duration="34000" />
+      <workItem from="1556804080835" duration="538000" />
+      <workItem from="1556812379673" duration="1820000" />
+      <workItem from="1556859063092" duration="110000" />
+      <workItem from="1556860351112" duration="138000" />
+      <workItem from="1556900593802" duration="572000" />
+    </task>
+    <task id="LOCAL-00001" summary="add generated files.">
+      <created>1555680500946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555680500946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set bg color.">
+      <created>1556033935343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556033935343</updated>
+    </task>
+    <task id="LOCAL-00003" summary="copy embedded theme file to resources folder.">
+      <created>1556116461401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556116461401</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add borderColor / errorForeground.">
+      <created>1556123193992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556123193992</updated>
+    </task>
+    <task id="LOCAL-00005" summary="define colors for buttons.">
+      <created>1556123693184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556123693184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="define border colors.">
+      <created>1556123857566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556123857566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add editor pane components.">
+      <created>1556124562757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556124562757</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lighten selected bg color in editortabs.">
+      <created>1556208805180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556208805181</updated>
+    </task>
+    <task id="LOCAL-00009" summary="set colors for debuggerpane.">
+      <created>1556353990472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556353990472</updated>
+    </task>
+    <task id="LOCAL-00010" summary="set FileColor colors.">
+      <created>1556356566852</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556356566852</updated>
+    </task>
+    <task id="LOCAL-00011" summary="set error focus colors.">
+      <created>1556359836097</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556359836097</updated>
+    </task>
+    <task id="LOCAL-00012" summary="set completeion popup colors.">
+      <created>1556360001288</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556360001288</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix main fg color.">
+      <created>1556371317867</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556371317867</updated>
+    </task>
+    <task id="LOCAL-00014" summary="copy missing entry definitions.">
+      <created>1556447843426</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556447843428</updated>
+    </task>
+    <task id="LOCAL-00015" summary="set tool window colors.">
+      <created>1556448766201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556448766201</updated>
+    </task>
+    <task id="LOCAL-00016" summary="set search colors.">
+      <created>1556450594406</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556450594406</updated>
+    </task>
+    <task id="LOCAL-00017" summary="set icon colors.">
+      <created>1556451731512</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1556451731512</updated>
+    </task>
+    <task id="LOCAL-00018" summary="use constant color from correct theme.">
+      <created>1556511179478</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1556511179478</updated>
+    </task>
+    <task id="LOCAL-00019" summary="use darker purple.">
+      <created>1556513156769</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556513156769</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add soft-charcoal theme files.">
+      <created>1556542559762</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556542559762</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add selectionBackgrounds.">
+      <created>1556686766981</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556686766981</updated>
+    </task>
+    <task id="LOCAL-00022" summary="lighten scrollbar.">
+      <created>1556687122712</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556687122712</updated>
+    </task>
+    <task id="LOCAL-00023" summary="set filestatus colors.">
+      <created>1556688031026</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1556688031026</updated>
+    </task>
+    <task id="LOCAL-00024" summary="change border color to #585858.">
+      <created>1556706807302</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556706807302</updated>
+    </task>
+    <task id="LOCAL-00025" summary="mute icons objects.red">
+      <created>1556720470544</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556720470544</updated>
+    </task>
+    <task id="LOCAL-00026" summary="lighten noneditable bg.">
+      <created>1556722210468</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1556722210468</updated>
+    </task>
+    <task id="LOCAL-00027" summary="set dart.constructor color.">
+      <created>1556724151370</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1556724151370</updated>
+    </task>
+    <task id="LOCAL-00028" summary="change focus colours.">
+      <created>1556796235966</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556796235966</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add diff colours.">
+      <created>1556796254035</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556796254035</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add depends notice.">
+      <created>1556796379328</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556796379328</updated>
+    </task>
+    <task id="LOCAL-00031" summary="lighten thumbnail colour.">
+      <created>1556796416391</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1556796416391</updated>
+    </task>
+    <task id="LOCAL-00032" summary="use thursday diff colours.">
+      <created>1556804479004</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1556804479004</updated>
+    </task>
+    <task id="LOCAL-00033" summary="improve completion popup colors.">
+      <created>1556901093751</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1556901093751</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49844000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25187165" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32991803" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39959016" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.2397541" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32991803" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Cargo" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set colors for debuggerpane." />
+    <MESSAGE value="set FileColor colors." />
+    <MESSAGE value="set error focus colors." />
+    <MESSAGE value="set completeion popup colors." />
+    <MESSAGE value="fix main fg color." />
+    <MESSAGE value="copy missing entry definitions." />
+    <MESSAGE value="set tool window colors." />
+    <MESSAGE value="set search colors." />
+    <MESSAGE value="set icon colors." />
+    <MESSAGE value="use constant color from correct theme." />
+    <MESSAGE value="use darker purple." />
+    <MESSAGE value="add soft-charcoal theme files." />
+    <MESSAGE value="add selectionBackgrounds." />
+    <MESSAGE value="lighten scrollbar." />
+    <MESSAGE value="set filestatus colors." />
+    <MESSAGE value="change border color to #585858." />
+    <MESSAGE value="mute icons objects.red" />
+    <MESSAGE value="lighten noneditable bg." />
+    <MESSAGE value="set dart.constructor color." />
+    <MESSAGE value="change focus colours." />
+    <MESSAGE value="add diff colours." />
+    <MESSAGE value="add depends notice." />
+    <MESSAGE value="lighten thumbnail colour." />
+    <MESSAGE value="use thursday diff colours." />
+    <MESSAGE value="improve completion popup colors." />
+    <option name="LAST_COMMIT_MESSAGE" value="improve completion popup colors." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/white-sand.icls" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/devkit/lib/devkit.jar!/schemes/theme.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/white-sand-ui.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/white-sand-ui/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="69" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/white-sand-ui/white_sand.theme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../foggy-night/resources/foggy_night.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14952">
+          <caret line="712" column="20" selection-start-line="712" selection-start-column="20" selection-end-line="712" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/white-sand-ui/white_sand.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/white_sand.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14994">
+          <caret line="714" column="22" selection-start-line="714" selection-start-column="22" selection-end-line="714" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/white_sand.theme.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

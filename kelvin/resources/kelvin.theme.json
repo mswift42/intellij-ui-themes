@@ -45,6 +45,10 @@
       "color": "#b2b2b2",
       "ContrastBorderColor": "#b2b2b2"
     },
+    "CheckBox.background": "#f3f3f3",
+    "CheckBox.select": "#7d5400",
+    "CheckBox.disabledText": "#434343",
+    "CheckBox.foreground": "#141414",
     "ComboBox": {
       "nonEditableBackground": "#b2b2b2",
       "ArrowButton": {
@@ -53,6 +57,7 @@
         "nonEditableBackground": "#dcdcdc"
       }
     },
+    "ComboBox.ArrowButton.background": "#b2b2b2",
     "ComboPopup.border": "1,1,1,1,#dcdcdc",
     "CompletionPopup": {
       "matchForeground": "#ae0086",
@@ -129,6 +134,7 @@
     "Link": {
       "activeForeground": "#434b7b",
       "hoverForeground": "#434b7b",
+      "secondaryForeground": "#ae0086",
       "pressedForeground": "#434b7b",
       "visitedForeground": "#434b7b"
     },

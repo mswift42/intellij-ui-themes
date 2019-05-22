@@ -99,12 +99,12 @@
       "inactiveMaskColor": "#dcdcdc"
     },
     "FileColor": {
-      "Yellow": "#fee6e9",
-      "Green": "#ffe5f9",
-      "Blue": "#ffeae5",
-      "Violet": "#fff2e5",
+      "Yellow": "#faf3e6",
+      "Green": "#e8ffe8",
+      "Blue": "#e6f2ff",
+      "Violet": "#fbe6ff",
       "Orange": "#fff3e5",
-      "Rose": "#fff6e5"
+      "Rose": "#ffebe6"
     },
     "FlameGraph": {
       "JVMBackground": "#232323",

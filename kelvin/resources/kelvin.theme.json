@@ -138,6 +138,7 @@
       "pressedForeground": "#434b7b",
       "visitedForeground": "#434b7b"
     },
+    "MenuItem.background": "#f2f2f2",
     "NavBar.borderColor": "#141414",
     "Notification": {
       "background": "#f2f2f2",
@@ -288,7 +289,7 @@
     },
     "ToolWindow": {
       "Header": {
-        "background": "#dcdcdc",
+        "background": "#f2f2f2",
         "inactiveBackground": "#dcdcdc"
       },
       "HeaderTab": {
@@ -298,9 +299,9 @@
         "hoverInactiveBackground": "#b2b2b2FF"
       },
       "Button": {
-        "hoverBackground": "#c7c7c7",
-        "selectedBackground": "#c7c7c7",
-        "selectedForeground": "#141414"
+        "hoverBackground": "#ae0086",
+        "selectedBackground": "#ae0086",
+        "selectedForeground": "#ffffff"
       }
     },
     "ValidationTooltip": {
@@ -353,7 +354,8 @@
       "Checkbox.Focus.Thin.Selected.Dark": "#141414",
       "Checkbox.Background.Disabled.Dark": "#f2f2f2",
       "Checkbox.Border.Disabled.Dark": "#b2b2b2",
-      "Checkbox.Foreground.Disabled.Dark": "#b2b2b2"
+      "Checkbox.Foreground.Disabled.Dark": "#b2b2b2",
+      "Checkbox.Background.Selected.Dark": "#ae0086"
     }
   }
 }

@@ -911,12 +911,12 @@
     <option name="DIFF_INSERTED">
         <value>
             <option name="BACKGROUND" value="#bef6dc"/>
-            <option name="ERROR_STRIPE_COLOR" value="#284c24"/>
+            <option name="ERROR_STRIPE_COLOR" value="#bef6dc"/>
         </value>
     </option>
     <option name="DIFF_MODIFIED">
         <value>
-            <option name="BACKGROUND" value="#bd5df6"/>
+            <option name="BACKGROUND" value="#5b76ef"/>
             <option name="ERROR_STRIPE_COLOR" value="#03f72"/>
         </value>
     </option>

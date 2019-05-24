@@ -1,7 +1,7 @@
 {
   "name": "kelvin",
   "dark": false,
-  "author": "martin.haesler",
+  "author": "martin haesler",
   "editorScheme": "/kelvin.xml",
   "ui": {
     "*": {

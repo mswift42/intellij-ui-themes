@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>kelvin</id>
   <name>kelvin</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -10,7 +10,7 @@
 
   <change-notes><![CDATA[
   Initial release of this plugin.
-  Added kelvin editor theme.
+  Improve DIFF colors.
     ]]>
   </change-notes>
 

@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>kelvin</id>
   <name>kelvin</name>
-  <version>0.0.2</version>
+  <version>0.1.1</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[

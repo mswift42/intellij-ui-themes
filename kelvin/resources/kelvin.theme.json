@@ -126,11 +126,13 @@
       "nativeFocusedFrameForeground": "#141414",
       "parentFocusedFrameForeground": "#141414"
     },
-    "InplaceRefactoringPopup": {
-      "background": "#dcdcdc",
-      "borderColor": "#232323"
+    "InplaceRefactoringPopup.borderColor": "#232323",
+    "Label": {
+      "disabledForeground": "#808080",
+      "disabledText": "#606060",
+      "infoForeground": "#606060",
+      "background": "#e6f2ff"
     },
-    "Label.selectedDisabledForeground": "#ff8800",
     "Link": {
       "activeForeground": "#434b7b",
       "hoverForeground": "#434b7b",

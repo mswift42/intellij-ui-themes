@@ -138,7 +138,10 @@
       <workItem from="1560521945912" duration="101000" />
       <workItem from="1560776292010" duration="51000" />
       <workItem from="1560776376150" duration="124000" />
-      <workItem from="1560776539512" duration="712000" />
+      <workItem from="1560776539512" duration="959000" />
+      <workItem from="1560777561230" duration="55000" />
+      <workItem from="1560777655118" duration="305000" />
+      <workItem from="1563464325882" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="add warm-night editor theme.">
       <created>1556800600307</created>
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556900435172</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix trailing comma in selectionInfoFG line.">
+      <created>1560777463899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560777463899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +190,7 @@
     <MESSAGE value="add ui theme files." />
     <MESSAGE value="set filecolor yellow." />
     <MESSAGE value="improve completion popup colors." />
-    <option name="LAST_COMMIT_MESSAGE" value="improve completion popup colors." />
+    <MESSAGE value="fix trailing comma in selectionInfoFG line." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix trailing comma in selectionInfoFG line." />
   </component>
 </project>

@@ -2,6 +2,9 @@
 
 Custom UI theme plugins for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm, DataGrip, GoLand, CLion, Rider, or AppCode.
 
+Created with ![iui](https://github.com/mswift42/iui)
+
+
 ## Installation
 
 All plugins are available on the jetbrains plugin marketplace.

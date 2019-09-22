@@ -271,7 +271,7 @@
     },
     "TableHeader.cellBorder": "8,0,8,0",
     "Table": {
-      "stripeColor": "#ffe5e5",
+      "stripeColor": "#fefefe",
       "lightSelectionForeground": "#141414",
       "lightSelectionInactiveForeground": "#141414",
       "lightSelectionBackground": "#dcdcdc",

@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>warm-night</id>
   <name>warm-night</name>
-  <version>0.1.4</version>
+  <version>0.1.5</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,8 +9,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    change Table stripeColor to colour #131111.
-    Set Filecolor yellow to #2f2b22.
+    fix completion background, fix bottom scroll bar colors, fix selection background
+    fix static final field color
     ]]>
   </change-notes>
 

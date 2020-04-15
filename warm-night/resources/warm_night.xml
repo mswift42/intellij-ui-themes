@@ -22,16 +22,40 @@
     <option name="METHOD_SEPARATORS_COLOR" value="3a3636" />
     <option name="MODIFIED_LINES_COLOR" value="bccff9" />
     <option name="NOTIFICATION_BACKGROUND" value="292424" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="3a3636" />
-    <option name="SELECTED_INDENT_GUIDE" value="a3a3a3" />
-    <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="3a3636" />
-    <option name="SELECTION_FOREGROUND" value="a3a3a3" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value=""/>
+    <option name="RIGHT_MARGIN_COLOR" value="3a3636"/>
+    <option name="SELECTED_INDENT_GUIDE" value="a3a3a3"/>
+    <option name="SELECTED_TEARLINE_COLOR" value=""/>
+    <option name="SELECTION_BACKGROUND" value="484444"/>
+    <option name="SELECTION_FOREGROUND" value="a3a3a3"/>
     <option name="SEPARATOR_BELOW_COLOR" value="3a3636"/>
     <option name="SEPARATOR_ABOVE_COLOR" value="3a3636"/>
-    <option name="TEARLINE_COLOR" value="a3a3a3" />
-    <option name="WHITESPACES" value="a3a3a3" />
+    <option name="TEARLINE_COLOR" value="a3a3a3"/>
+    <option name="WHITESPACES" value="a3a3a3"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="a3a3a3"/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="a3a3a35A"/>
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="5c5959"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="e6e6e65a"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="a3a3a3"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value="292424"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.Mac.thumbColor" value="5c5959"/>
+    <option name="ScrollBar.Mac.trackColor" value="292424"/>
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="a3a3a3"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="a3a3a35A"/>
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.Transparent.thumbColor" value="b1b1b1"/>
+    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.hoverThumbColor" value="a3a3a3"/>
+    <option name="ScrollBar.hoverTrackColor" value="a3a3a35A"/>
+    <option name="ScrollBar.thumbBorderColor" value="292424C8"/>
+    <option name="ScrollBar.thumbColor" value="b1b1b1"/>
+    <option name="ScrollBar.trackColor" value="292424"/>
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -3158,21 +3182,27 @@
     </option>
     <option name="SQL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c27d7b" />
+        <option name="FOREGROUND" value="c27d7b"/>
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8b8fc6" />
+        <option name="FOREGROUND" value="8b8fc6"/>
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8b3d92"/>
+        <option name="FONT_TYPE" value="3"/>
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
+      <value/>
     </option>
     <option name="STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="b680b1" />
-        <option name="EFFECT_TYPE" value="-1" />
+        <option name="FOREGROUND" value="b680b1"/>
+        <option name="EFFECT_TYPE" value="-1"/>
       </value>
     </option>
     <option name="Scala Abstract class">

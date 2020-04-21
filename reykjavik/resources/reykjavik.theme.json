@@ -61,6 +61,7 @@
       "matchSelectionForeground": "#ffffff",
       "selectionInactiveBackground": "#243549",
       "selectionInactiveInfoForeground": "#e6c2db",
+      "selectionBackground": "#243549",
       "selectionInfoForeground": "#ffffff"
     },
     "Component": {

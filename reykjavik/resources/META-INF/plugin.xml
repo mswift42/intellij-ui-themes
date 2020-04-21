@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>Reykjavik</id>
   <name>Reykjavik</name>
-  <version>0.1.6</version>
+  <version>0.1.7</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -12,8 +12,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-  Change Table stripedColor to color #060d0f.
-  Change FileColor yellow to #1b1d13.
+     CompletionPopup "selectionBackground" color set to "#243549".
     ]]>
   </change-notes>
 

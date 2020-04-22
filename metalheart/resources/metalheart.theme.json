@@ -60,6 +60,7 @@
       "background": "#1d272a",
       "infoForeground": "#a9a9a9",
       "selectionInactiveBackground": "#1d272a",
+      "selectionBackground": "#1d272a",
       "selectionInfoForeground": "#202020"
     },
     "Component": {

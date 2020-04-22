@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4ae8d1-e05d-4eea-8f44-43ff5e8c9181" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foggy-night/foggy-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/foggy-night.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8a4ae8d1-e05d-4eea-8f44-43ff5e8c9181" name="Default Changelist" comment="fix completion popup selection bg.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/madrid.jar" beforeDir="false" afterPath="$PROJECT_DIR$/madrid.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/soft-charcoal.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/soft-charcoal.jar" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,17 +27,18 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="UFzqvwuX" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="y" value="-4" />
-    <option name="width" value="960" />
-    <option name="height" value="1048" />
-  </component>
   <component name="ProjectId" id="1RBmOmPFLpo58jZKOoKzwwwdAZV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -64,18 +55,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -142,6 +121,7 @@
       <workItem from="1556860491319" duration="93000" />
       <workItem from="1556901168419" duration="432000" />
       <workItem from="1569148835322" duration="831000" />
+      <workItem from="1587541282683" duration="824000" />
     </task>
     <task id="LOCAL-00001" summary="add madrid theme files.">
       <created>1556548272612</created>
@@ -185,11 +165,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569149033106</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix completion popup selection bg.">
+      <created>1587541463083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587541463083</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bump version to 0.1.4">
+      <created>1587541600329</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587541600329</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add madrid theme files." />
@@ -198,6 +192,18 @@
     <MESSAGE value="improve completion popup colors." />
     <MESSAGE value="set Table stripeColor to #101010." />
     <MESSAGE value="update version / changelog." />
-    <option name="LAST_COMMIT_MESSAGE" value="update version / changelog." />
+    <MESSAGE value="fix completion popup selection bg." />
+    <MESSAGE value="bump version to 0.1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="bump version to 0.1.4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587541600198">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587541600198" />
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587541602436">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587541602436" />
   </component>
 </project>

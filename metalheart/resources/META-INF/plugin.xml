@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>MetalHeart</id>
   <name>MetalHeart</name>
-  <version>0.1.4</version>
+  <version>0.1.5</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    Change Table stripeColor colour to #0e1416.
+    CompletionPopup "selectionBackground" color set to "#1d272a".
     ]]>
   </change-notes>
 

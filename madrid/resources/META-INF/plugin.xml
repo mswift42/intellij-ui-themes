@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    Set Table stripeColor to colour #101010.
+     CompletionPopup "selectionBackground" color set to "#2d2d2d".
     ]]>
   </change-notes>
 

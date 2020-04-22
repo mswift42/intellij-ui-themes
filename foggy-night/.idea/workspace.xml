@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13e588ba-833b-4208-96ed-03ca0a5233e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/foggy_night.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/foggy_night.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/warm-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/warm-night.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13e588ba-833b-4208-96ed-03ca0a5233e1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +145,7 @@
       <workItem from="1556860112990" duration="142000" />
       <workItem from="1556901601956" duration="287000" />
       <workItem from="1569145894901" duration="918000" />
-      <workItem from="1587540383093" duration="373000" />
+      <workItem from="1587540383093" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="add plugin description.">
       <created>1556719993004</created>
@@ -234,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569146191752</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix foggy-night completion bg color">
+      <created>1587540882588</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587540882588</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +275,13 @@
     <MESSAGE value="improve completion popup colors." />
     <MESSAGE value="set table stripeColor to #191919." />
     <MESSAGE value="bump version / update changelog." />
-    <option name="LAST_COMMIT_MESSAGE" value="bump version / update changelog." />
+    <MESSAGE value="fix foggy-night completion bg color" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix foggy-night completion bg color" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="107" width="780" height="863" key="CommitChangelistDialog2" timestamp="1587540882205">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="565" y="107" width="780" height="863" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587540882205" />
   </component>
 </project>

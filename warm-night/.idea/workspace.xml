@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538173e3-8de8-4401-8f29-bf6a05a48c44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warm-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/warm-night.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,41 +39,28 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="403" />
-    <option name="y" value="2" />
-    <option name="width" value="958" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="1Mm47TFRp0RaRBB2q2tQhMvrJAe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -143,6 +133,10 @@
       <workItem from="1560777561230" duration="55000" />
       <workItem from="1560777655118" duration="305000" />
       <workItem from="1563464325882" duration="134000" />
+      <workItem from="1569157736049" duration="478000" />
+      <workItem from="1586940777223" duration="1066000" />
+      <workItem from="1587021021369" duration="271000" />
+      <workItem from="1587459439210" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="add warm-night editor theme.">
       <created>1556800600307</created>
@@ -179,11 +173,32 @@
       <option name="project" value="LOCAL" />
       <updated>1560777463899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change table stripeColor to #131111.">
+      <created>1569157917995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569157917995</updated>
+    </task>
+    <task id="LOCAL-00007" summary="set Filecolor yellow to #2f2b22.">
+      <created>1569158048188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569158048188</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bump version.">
+      <created>1586940972893</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586940972893</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
@@ -192,6 +207,23 @@
     <MESSAGE value="set filecolor yellow." />
     <MESSAGE value="improve completion popup colors." />
     <MESSAGE value="fix trailing comma in selectionInfoFG line." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix trailing comma in selectionInfoFG line." />
+    <MESSAGE value="change table stripeColor to #131111." />
+    <MESSAGE value="set Filecolor yellow to #2f2b22." />
+    <MESSAGE value="bump version." />
+    <option name="LAST_COMMIT_MESSAGE" value="bump version." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1586940972670">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1586940972670" />
+    <state x="455" y="170" width="1009" height="737" key="SettingsEditor" timestamp="1586941498752">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="455" y="170" width="1009" height="737" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1586941498752" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1586941261281">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1586941261281" />
   </component>
 </project>

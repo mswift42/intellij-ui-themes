@@ -58,6 +58,7 @@
       "nonFocusedState": "#3a3a3a",
       "matchSelectionForeground": "#ffffff",
       "selectionInactiveBackground": "#3a3a3a",
+      "selectionBackground": "#3a3a3a",
       "selectionInactiveInfoForeground": "#ad7176",
       "selectionInfoForeground": "#ffffff"
     },

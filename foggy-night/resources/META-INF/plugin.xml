@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>foggy-night</id>
   <name>foggy-night</name>
-  <version>0.1.3</version>
+  <version>0.1.4</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -10,7 +10,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    Set table stripedColor to color #191919.
+     CompletionPopup "selectionBackground" color set to "#3a3a3a".
     ]]>
   </change-notes>
 

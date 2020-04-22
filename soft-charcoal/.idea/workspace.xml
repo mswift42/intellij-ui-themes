@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1fa42a3-8f14-44c5-8ff3-572ae83b3e9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soft-charcoal.jar" beforeDir="false" afterPath="$PROJECT_DIR$/soft-charcoal.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warm-night/warm-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/warm-night.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,6 +161,7 @@
       <workItem from="1569061238334" duration="1089000" />
       <workItem from="1569062509052" duration="940000" />
       <workItem from="1569068081358" duration="96000" />
+      <workItem from="1569299337518" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="add resources foler soft_charcoal">
       <created>1556535416784</created>
@@ -281,5 +280,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="554" y="274" width="802" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1569062297027" />
+    <state x="645" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1569299336971">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="645" y="365" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1569299336971" />
   </component>
 </project>

@@ -11,6 +11,7 @@
   <change-notes><![CDATA[
     fix completion background, fix bottom scroll bar colors, fix selection background
     fix static final field color
+    contributed by https://github.com/GnusinPavel.
     ]]>
   </change-notes>
 

@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>white-sand-ui</id>
   <name>white-sand-ui</name>
-  <version>0.2.3</version>
+  <version>0.2.4</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -10,7 +10,7 @@
 
   <change-notes><![CDATA[
   Improve Completion Popup colours.
-  Set match selection fg colour to black.
+  Add DOCUMENTATION_COLOR entry to editor scheme.
     ]]>
   </change-notes>
 

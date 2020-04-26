@@ -1,16 +1,17 @@
 <idea-plugin>
   <id>white-sand-ui</id>
   <name>white-sand-ui</name>
-  <version>0.2.4</version>
+  <version>0.2.5</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
-      set selectionbackground / foreground color.
+      Custom ui theme with a light, warm background and and medium contrast colors.
     ]]></description>
 
   <change-notes><![CDATA[
   Improve Completion Popup colours.
   Add DOCUMENTATION_COLOR entry to editor scheme.
+  Fix description entry.
     ]]>
   </change-notes>
 

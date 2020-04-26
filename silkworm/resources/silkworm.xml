@@ -30,6 +30,7 @@
     <option name="SELECTION_FOREGROUND" value="656565" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="656565" />
+    <option name="DOCUMENTATION_COLOR" value="ece3db" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">

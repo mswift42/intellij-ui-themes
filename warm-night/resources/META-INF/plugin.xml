@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>warm-night</id>
   <name>warm-night</name>
-  <version>0.1.5</version>
+  <version>0.1.6</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,9 +9,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    fix completion background, fix bottom scroll bar colors, fix selection background
-    fix static final field color
-    contributed by https://github.com/GnusinPavel.
+    Add DOCUMENTATION_COLOR entry to editor scheme.
+    Improve CompletionPopup colors.
     ]]>
   </change-notes>
 

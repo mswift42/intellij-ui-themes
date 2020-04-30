@@ -32,6 +32,7 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="3a3636"/>
     <option name="TEARLINE_COLOR" value="a3a3a3"/>
     <option name="WHITESPACES" value="a3a3a3"/>
+    <option name="DOCUMENTATION_COLOR" value="292424" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="292424C8"/>
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="a3a3a3"/>
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="a3a3a35A"/>

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4ae8d1-e05d-4eea-8f44-43ff5e8c9181" name="Default Changelist" comment="fix completion popup selection bg.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +127,7 @@
       <workItem from="1556901168419" duration="432000" />
       <workItem from="1569148835322" duration="831000" />
       <workItem from="1587541282683" duration="824000" />
+      <workItem from="1587886531797" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="add madrid theme files.">
       <created>1556548272612</created>

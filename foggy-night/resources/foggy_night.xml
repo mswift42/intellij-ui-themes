@@ -32,6 +32,7 @@
         <option name="SEPARATOR_ABOVE_COLOR" value="3a3a3a"/>
         <option name="TEARLINE_COLOR" value="848484"/>
         <option name="WHITESPACES" value="848484"/>
+        <option name="DOCUMENTATION_COLOR" value="292929" />
     </colors>
     <attributes>
         <option name="ANNOTATION_NAME_ATTRIBUTES">

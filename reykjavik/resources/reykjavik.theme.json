@@ -57,8 +57,8 @@
     "ComboPopup.border": "1,1,1,1,4a585c",
     "CompletionPopup": {
       "matchForeground": "#ffffff",
+      "nonFocusedMask": "#a3d4e840",
       "selectionInactiveBackground": "#243549",
-      "selectionInactiveInfoForeground": "#b1b1b1",
       "selectionBackground": "#a3d4e840"
     },
     "Component": {

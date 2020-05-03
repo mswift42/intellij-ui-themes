@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c7cbf78-2279-4b02-9732-a1875fc9a189" name="Default Changelist" comment="">
+    <list default="true" id="7c7cbf78-2279-4b02-9732-a1875fc9a189" name="Default Changelist" comment="add DOCUMENTATION_COLOR / fix completion popup">
+      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/warm-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/warm-night.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/white-sand-ui.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/white-sand-ui.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -129,6 +136,8 @@
       <workItem from="1556960513809" duration="13000" />
       <workItem from="1569157595849" duration="59000" />
       <workItem from="1587110713296" duration="1174000" />
+      <workItem from="1587885415259" duration="1040000" />
+      <workItem from="1587886569956" duration="1465000" />
     </task>
     <task id="LOCAL-00001" summary="add silkworm editor theme.">
       <created>1556629304364</created>
@@ -207,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556904434812</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add DOCUMENTATION_COLOR / fix completion popup">
+      <created>1587888025209</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587888025209</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,28 +268,21 @@
     <MESSAGE value="bump version." />
     <MESSAGE value="add diff colours." />
     <MESSAGE value="Improve completion popup colors." />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve completion popup colors." />
+    <MESSAGE value="add DOCUMENTATION_COLOR / fix completion popup" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DOCUMENTATION_COLOR / fix completion popup" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="442" y="112" width="1026" height="854" key="#Project_Structure" timestamp="1587887859948">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="442" y="112" width="1026" height="854" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1587887859948" />
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587888025076">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587888025076" />
     <state x="455" y="170" width="1009" height="737" key="SettingsEditor" timestamp="1587115297335">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="455" y="170" width="1009" height="737" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1587115297335" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

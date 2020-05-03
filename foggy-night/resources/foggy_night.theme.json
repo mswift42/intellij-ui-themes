@@ -54,13 +54,10 @@
     },
     "ComboPopup.border": "1,1,1,1,3a3a3a",
     "CompletionPopup": {
-      "matchForeground": "#6b83ac",
-      "nonFocusedState": "#3a3a3a",
-      "matchSelectionForeground": "#ffffff",
+      "matchForeground": "#ffffff",
+      "nonFocusedMask": "#6b83ac40",
       "selectionInactiveBackground": "#3a3a3a",
-      "selectionBackground": "#3a3a3a",
-      "selectionInactiveInfoForeground": "#ad7176",
-      "selectionInfoForeground": "#ffffff"
+      "selectionBackground": "#6b83ac40"
     },
     "Component": {
       "errorFocusColor": "#4d051a",

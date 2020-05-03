@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538173e3-8de8-4401-8f29-bf6a05a48c44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/warm-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/warm-night.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +59,12 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -137,6 +148,8 @@
       <workItem from="1586940777223" duration="1066000" />
       <workItem from="1587021021369" duration="271000" />
       <workItem from="1587459439210" duration="11000" />
+      <workItem from="1588233019529" duration="10000" />
+      <workItem from="1588233066556" duration="1921000" />
     </task>
     <task id="LOCAL-00001" summary="add warm-night editor theme.">
       <created>1556800600307</created>
@@ -194,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586940972893</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add DOCUMENTATION_COLOR ENTRY">
+      <created>1588233761118</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588233761119</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,17 +230,22 @@
     <MESSAGE value="change table stripeColor to #131111." />
     <MESSAGE value="set Filecolor yellow to #2f2b22." />
     <MESSAGE value="bump version." />
-    <option name="LAST_COMMIT_MESSAGE" value="bump version." />
+    <MESSAGE value="Add DOCUMENTATION_COLOR ENTRY" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DOCUMENTATION_COLOR ENTRY" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1586940972670">
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1588233760846">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1586940972670" />
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1588233760846" />
     <state x="455" y="170" width="1009" height="737" key="SettingsEditor" timestamp="1586941498752">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="455" y="170" width="1009" height="737" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1586941498752" />
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1588233780630">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1588233780630" />
     <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1586941261281">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>

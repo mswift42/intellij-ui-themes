@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1024153-75ce-4321-8a22-bcc04c55667e" name="Default Changelist" comment="set filecolor yellow to 1b1d13.">
+      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/reykjavik.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/reykjavik.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/warm-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/warm-night.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +49,6 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="asiBWnZE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="403" />
-    <option name="y" value="2" />
-    <option name="width" value="958" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="1RC2Nzux9RDFJJOGo9FQWP3JGvV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,8 +66,11 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -155,6 +156,10 @@
       <workItem from="1556903761220" duration="438000" />
       <workItem from="1569156722850" duration="853000" />
       <workItem from="1587459466331" duration="1016000" />
+      <workItem from="1587969480538" duration="1154000" />
+      <workItem from="1588060406533" duration="1079000" />
+      <workItem from="1588144141584" duration="34000" />
+      <workItem from="1588233522911" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="add reykjavik theme files.">
       <created>1556533934137</created>
@@ -310,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587460240518</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add documentation_color entry.">
+      <created>1587970018715</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587970018716</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,16 +377,21 @@
     <MESSAGE value="Set filecolor / table stripedcolor." />
     <MESSAGE value="set filecolor yellow to 1b1d13." />
     <MESSAGE value="fix selectionBackground in completion popup." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix selectionBackground in completion popup." />
+    <MESSAGE value="add documentation_color entry." />
+    <option name="LAST_COMMIT_MESSAGE" value="add documentation_color entry." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587460240353">
+    <state x="554" y="178" width="802" height="721" key="#Plugins" timestamp="1588060527150">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587460240353" />
-    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587460244175">
+    <state x="554" y="178" width="802" height="721" key="#Plugins/0.28.1920.1052@0.28.1920.1052" timestamp="1588060527150" />
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587970018396">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587460244175" />
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587970018396" />
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587970024574">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587970024574" />
   </component>
 </project>

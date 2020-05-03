@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="473108da-5652-4c47-a245-cbaca7ee5028" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foggy-night/foggy-night.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/foggy-night.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../madrid/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../madrid/madrid.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/madrid.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../metalheart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../metalheart/metalheart.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/metalheart.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reykjavik/reykjavik.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/reykjavik.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/soft-charcoal.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/soft-charcoal.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,37 +44,35 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="403" />
-    <option name="y" value="2" />
-    <option name="width" value="958" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="1RC4JxNvqJ9riomtpMW4ruLesVu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -159,6 +142,11 @@
       <workItem from="1556898539053" duration="1588000" />
       <workItem from="1558675706798" duration="22000" />
       <workItem from="1569157677122" duration="34000" />
+      <workItem from="1587622999030" duration="5112000" />
+      <workItem from="1587726782827" duration="31000" />
+      <workItem from="1587726850403" duration="163000" />
+      <workItem from="1587727036930" duration="59000" />
+      <workItem from="1587727169210" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="set file colours.">
       <created>1556802126752</created>
@@ -209,20 +197,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556899943310</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add DOCUMENTATION_COLOR.">
+      <created>1587626404146</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587626404146</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix completion popup colors.">
+      <created>1587626636946</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587626636946</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -241,6 +241,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set file colours." />
@@ -249,22 +250,30 @@
     <MESSAGE value="fix vendor url. set minimum ida-version." />
     <MESSAGE value="darken selection fg." />
     <MESSAGE value="improve completion popup colors." />
-    <option name="LAST_COMMIT_MESSAGE" value="improve completion popup colors." />
+    <MESSAGE value="add DOCUMENTATION_COLOR." />
+    <MESSAGE value="fix completion popup colors." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix completion popup colors." />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="442" y="112" width="1026" height="854" key="#Project_Structure" timestamp="1587626594497">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="442" y="112" width="1026" height="854" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1587626594497" />
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587626636858">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587626636858" />
+    <state x="953" y="315" width="426" height="493" key="FileChooserDialogImpl" timestamp="1587626573320">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="953" y="315" width="426" height="493" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1587626573320" />
+    <state x="455" y="170" width="1009" height="737" key="SettingsEditor" timestamp="1587624715143">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="455" y="170" width="1009" height="737" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1587624715143" />
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587626644934">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587626644934" />
   </component>
 </project>

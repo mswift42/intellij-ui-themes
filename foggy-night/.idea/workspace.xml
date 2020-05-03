@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13e588ba-833b-4208-96ed-03ca0a5233e1" name="Default Changelist" comment="" />
+    <list default="true" id="13e588ba-833b-4208-96ed-03ca0a5233e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/foggy_night.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/foggy_night.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/foggy_night.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/foggy_night.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,6 +161,7 @@
       <workItem from="1556901601956" duration="287000" />
       <workItem from="1569145894901" duration="918000" />
       <workItem from="1587540383093" duration="885000" />
+      <workItem from="1588486722251" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="add plugin description.">
       <created>1556719993004</created>

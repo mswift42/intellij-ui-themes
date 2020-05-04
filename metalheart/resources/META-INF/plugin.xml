@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>MetalHeart</id>
   <name>MetalHeart</name>
-  <version>0.1.5</version>
+  <version>0.1.6</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    CompletionPopup "selectionBackground" color set to "#1d272a".
+    Add DOCUMENTATION_COLOR entry in editor scheme.
+    Improve Completion popup colors.
     ]]>
   </change-notes>
 

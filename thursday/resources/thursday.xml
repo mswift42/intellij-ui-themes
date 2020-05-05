@@ -6,6 +6,7 @@
     <option name="CARET_COLOR" value="616161" />
     <option name="CARET_ROW_COLOR" value="e5e7e9" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f9fbfd" />
+    <option name="DOCUMENTATION_COLOR" value="f5f7f9" />
     <option name="FILESTATUS_ADDED" value="28728f" />
     <option name="FILESTATUS_COPIED" value="404040" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="28766e" />
@@ -22,13 +23,12 @@
     <option name="RIGHT_MARGIN_COLOR" value="e5e7e9" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="e5e7e9" />
-    <option name="SELECTION_FOREGROUND" value="202020" />
+    <option name="SELECTION_FOREGROUND" value="000000" />
+    <option name="SELECTION_BACKGROUND" value="fefcca" />
     <option name="SEPARATOR_ABOVE_COLOR" value="e5e7e9" />
     <option name="SEPARATOR_BELOW_COLOR" value="e5e7e9" />
     <option name="TEARLINE_COLOR" value="404040" />
     <option name="WHITESPACES" value="404040" />
-    <option name="DOCUMENTATION_COLOR" value="f5f7f9" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">

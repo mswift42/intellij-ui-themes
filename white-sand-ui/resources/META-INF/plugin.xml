@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>white-sand-ui</id>
   <name>white-sand-ui</name>
-  <version>0.2.5</version>
+  <version>0.2.6</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,9 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-  Improve Completion Popup colours.
-  Add DOCUMENTATION_COLOR entry to editor scheme.
-  Fix description entry.
+    Improve SELECTION_BACKGROUND / SELECTION_FOREGROUND colors.
     ]]>
   </change-notes>
 

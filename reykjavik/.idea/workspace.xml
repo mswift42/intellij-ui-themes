@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1024153-75ce-4321-8a22-bcc04c55667e" name="Default Changelist" comment="improve">
-      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foggy-night/resources/foggy_night.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/resources/foggy_night.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/resources/soft_charcoal.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/resources/soft_charcoal.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/resources/soft_charcoal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/resources/soft_charcoal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +158,7 @@
       <workItem from="1588591509987" duration="9000" />
       <workItem from="1588671402525" duration="1007000" />
       <workItem from="1588749857404" duration="46000" />
-      <workItem from="1588750213514" duration="318000" />
+      <workItem from="1588750213514" duration="1185000" />
     </task>
     <task id="LOCAL-00001" summary="add reykjavik theme files.">
       <created>1556533934137</created>

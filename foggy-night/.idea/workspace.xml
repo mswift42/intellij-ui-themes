@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13e588ba-833b-4208-96ed-03ca0a5233e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/foggy_night.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/foggy_night.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/foggy_night.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/foggy_night.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/resources/reykjavik.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../warm-night/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +148,7 @@
       <workItem from="1556901601956" duration="287000" />
       <workItem from="1569145894901" duration="918000" />
       <workItem from="1587540383093" duration="885000" />
-      <workItem from="1588486722251" duration="441000" />
+      <workItem from="1588486722251" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="add plugin description.">
       <created>1556719993004</created>
@@ -247,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587540882588</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add doc color / improve completion popup.">
+      <created>1588487229282</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588487229282</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,12 +286,17 @@
     <MESSAGE value="set table stripeColor to #191919." />
     <MESSAGE value="bump version / update changelog." />
     <MESSAGE value="fix foggy-night completion bg color" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix foggy-night completion bg color" />
+    <MESSAGE value="add doc color / improve completion popup." />
+    <option name="LAST_COMMIT_MESSAGE" value="add doc color / improve completion popup." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="565" y="107" width="780" height="863" key="CommitChangelistDialog2" timestamp="1587540882205">
+    <state x="565" y="107" width="780" height="863" key="CommitChangelistDialog2" timestamp="1588487229054">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="565" y="107" width="780" height="863" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587540882205" />
+    <state x="565" y="107" width="780" height="863" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1588487229054" />
+    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1588487231206">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="555" y="271" width="800" height="535" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1588487231206" />
   </component>
 </project>

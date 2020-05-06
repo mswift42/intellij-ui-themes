@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1fa42a3-8f14-44c5-8ff3-572ae83b3e9c" name="Default Changelist" comment="" />
+    <list default="true" id="c1fa42a3-8f14-44c5-8ff3-572ae83b3e9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/soft_charcoal.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/soft_charcoal.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/soft_charcoal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/soft_charcoal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +158,7 @@
       <workItem from="1569068081358" duration="96000" />
       <workItem from="1569299337518" duration="36000" />
       <workItem from="1587621569640" duration="748000" />
+      <workItem from="1588749905205" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="add resources foler soft_charcoal">
       <created>1556535416784</created>
@@ -264,5 +276,9 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587621710507" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1588750071742">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1588750071742" />
   </component>
 </project>

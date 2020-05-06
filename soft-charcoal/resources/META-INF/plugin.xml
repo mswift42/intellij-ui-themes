@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>soft-charcoal</id>
   <name>soft-charcoal</name>
-  <version>0.1.4</version>
+  <version>0.1.5</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,9 @@
     ]]></description>
 
   <change-notes><![CDATA[
-   CompletionPopup "selectionBackground" color set to "#3e3e3e".
+   Add DOCUMENTATION_COLOR entry to editor scheme.
+   Improve Completion.popup colors.
+   Improve SELECTION_FG / bg colors.
     ]]>
   </change-notes>
 

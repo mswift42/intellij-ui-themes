@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770b1f68-81b0-4523-b0b0-615a60f8ff47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +145,7 @@
       <workItem from="1569156692907" duration="7000" />
       <workItem from="1587542119775" duration="952000" />
       <workItem from="1587621512162" duration="41000" />
+      <workItem from="1588576299744" duration="1419000" />
     </task>
     <task id="LOCAL-00001" summary="add metalheart theme.">
       <created>1556684507832</created>
@@ -235,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587542353320</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add doc_color entry / improve completion popup">
+      <created>1588577109614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1588577109614</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,16 +291,19 @@
     <MESSAGE value="set minimum idea version" />
     <MESSAGE value="set Table stripeColor to #0e1416." />
     <MESSAGE value="fix completion popup selection bg color." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix completion popup selection bg color." />
+    <MESSAGE value="add doc_color entry / improve completion popup" />
+    <option name="LAST_COMMIT_MESSAGE" value="add doc_color entry / improve completion popup" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587542353139">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2" timestamp="1588577109428">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588577109428" />
     <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587542353139" />
-    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587542356385">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="554" y="269" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1588577111342">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="554" y="269" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588577111342" />
     <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587542356385" />
   </component>
 </project>

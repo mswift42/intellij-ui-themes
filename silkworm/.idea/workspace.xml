@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c7cbf78-2279-4b02-9732-a1875fc9a189" name="Default Changelist" comment="add DOCUMENTATION_COLOR / fix completion popup">
-      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/white-sand-ui.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/white-sand-ui.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +55,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -138,6 +132,9 @@
       <workItem from="1587110713296" duration="1174000" />
       <workItem from="1587885415259" duration="1040000" />
       <workItem from="1587886569956" duration="1465000" />
+      <workItem from="1588591522347" duration="2496000" />
+      <workItem from="1588662430280" duration="178000" />
+      <workItem from="1588662632419" duration="961000" />
     </task>
     <task id="LOCAL-00001" summary="add silkworm editor theme.">
       <created>1556629304364</created>
@@ -223,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587888025209</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix selection fg / bg colors.">
+      <created>1588662891827</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588662891827</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,20 +273,31 @@
     <MESSAGE value="add diff colours." />
     <MESSAGE value="Improve completion popup colors." />
     <MESSAGE value="add DOCUMENTATION_COLOR / fix completion popup" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DOCUMENTATION_COLOR / fix completion popup" />
+    <MESSAGE value="fix selection fg / bg colors." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix selection fg / bg colors." />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="112" width="1026" height="854" key="#Project_Structure" timestamp="1587887859948">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="442" y="112" width="1026" height="854" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1587887859948" />
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587888025076">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2" timestamp="1588662891643">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588662891643" />
     <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587888025076" />
-    <state x="455" y="170" width="1009" height="737" key="SettingsEditor" timestamp="1587115297335">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="455" y="169" width="1024" height="737" key="SettingsEditor" timestamp="1588593222292">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="455" y="169" width="1024" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1588593222292" />
     <state x="455" y="170" width="1009" height="737" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1587115297335" />
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1588662893267">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588662893267" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1588592705291">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1588592705291" />
   </component>
 </project>

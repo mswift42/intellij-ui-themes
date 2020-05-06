@@ -26,12 +26,13 @@
         <option name="RIGHT_MARGIN_COLOR" value="2b2b2b"/>
         <option name="SELECTED_INDENT_GUIDE" value="b2b2b2"/>
         <option name="SELECTED_TEARLINE_COLOR" value=""/>
-        <option name="SELECTION_BACKGROUND" value="2b2b2b"/>
-        <option name="SELECTION_FOREGROUND" value="b2b2b2"/>
+        <option name="SELECTION_BACKGROUND" value="000000"/>
+        <option name="SELECTION_FOREGROUND" value="8aa234"/>
         <option name="SEPARATOR_BELOW_COLOR" value="2b2b2b"/>
         <option name="SEPARATOR_ABOVE_COLOR" value="2b2b2b"/>
         <option name="TEARLINE_COLOR" value="b2b2b2"/>
         <option name="WHITESPACES" value="b2b2b2"/>
+        <option name="DOCUMENTATION_COLOR" value="191919" />
     </colors>
     <attributes>
         <option name="ANNOTATION_NAME_ATTRIBUTES">

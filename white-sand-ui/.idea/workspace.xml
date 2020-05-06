@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01c807a8-7711-4c69-9c54-32d37f0766f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../madrid/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thursday/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +85,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -190,6 +187,7 @@
       <workItem from="1569158242369" duration="39000" />
       <workItem from="1587727105001" duration="1475000" />
       <workItem from="1587886875248" duration="2416000" />
+      <workItem from="1588663790319" duration="988000" />
     </task>
     <task id="LOCAL-00001" summary="add generated files.">
       <created>1555680500946</created>
@@ -443,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587888067059</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="improve selection bg / fg colors.">
+      <created>1588664161547</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1588664161548</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +481,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="set completeion popup colors." />
     <MESSAGE value="fix main fg color." />
     <MESSAGE value="copy missing entry definitions." />
     <MESSAGE value="set tool window colors." />
@@ -501,20 +505,27 @@
     <MESSAGE value="add documentation_color entry." />
     <MESSAGE value="fix completion_popup colors." />
     <MESSAGE value="fix whitesand description / change log entry." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix whitesand description / change log entry." />
+    <MESSAGE value="improve selection bg / fg colors." />
+    <option name="LAST_COMMIT_MESSAGE" value="improve selection bg / fg colors." />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="112" width="1026" height="854" key="#Project_Structure" timestamp="1587727802847">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="442" y="112" width="1026" height="854" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1587727802847" />
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587888066983">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2" timestamp="1588664161471">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588664161471" />
     <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587888066983" />
-    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587888068197">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="448" y="170" width="1024" height="737" key="SettingsEditor" timestamp="1588663977399">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="448" y="170" width="1024" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1588663977399" />
+    <state x="554" y="269" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1588664162769">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="554" y="269" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588664162769" />
     <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587888068197" />
   </component>
 </project>

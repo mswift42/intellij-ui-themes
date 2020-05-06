@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="473108da-5652-4c47-a245-cbaca7ee5028" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soft-charcoal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foggy-night/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metalheart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reykjavik/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../silkworm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../white-sand-ui/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,6 +148,7 @@
       <workItem from="1587726850403" duration="163000" />
       <workItem from="1587727036930" duration="59000" />
       <workItem from="1587727169210" duration="1349000" />
+      <workItem from="1588664945644" duration="1825000" />
     </task>
     <task id="LOCAL-00001" summary="set file colours.">
       <created>1556802126752</created>
@@ -211,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587626636946</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="improve selection_bg / fg colors.">
+      <created>1588665268292</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588665268292</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,28 +261,32 @@
     <MESSAGE value="improve completion popup colors." />
     <MESSAGE value="add DOCUMENTATION_COLOR." />
     <MESSAGE value="fix completion popup colors." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix completion popup colors." />
+    <MESSAGE value="improve selection_bg / fg colors." />
+    <option name="LAST_COMMIT_MESSAGE" value="improve selection_bg / fg colors." />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="112" width="1026" height="854" key="#Project_Structure" timestamp="1587626594497">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="442" y="112" width="1026" height="854" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1587626594497" />
-    <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2" timestamp="1587626636858">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2" timestamp="1588665268187">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="564" y="105" width="881" height="866" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588665268187" />
     <state x="564" y="106" width="782" height="865" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1587626636858" />
     <state x="953" y="315" width="426" height="493" key="FileChooserDialogImpl" timestamp="1587626573320">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="953" y="315" width="426" height="493" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1587626573320" />
-    <state x="455" y="170" width="1009" height="737" key="SettingsEditor" timestamp="1587624715143">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="455" y="169" width="1009" height="737" key="SettingsEditor" timestamp="1588665120328">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="455" y="169" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1588665120328" />
     <state x="455" y="170" width="1009" height="737" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1587624715143" />
-    <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1587626644934">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="554" y="269" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1588665270565">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="554" y="269" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588665270565" />
     <state x="554" y="270" width="802" height="537" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1587626644934" />
   </component>
 </project>

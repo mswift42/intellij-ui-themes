@@ -57,8 +57,7 @@
       "matchForeground": "#ffffff",
       "nonFocusedMask": "#96905f40",
       "selectionInactiveBackground": "#3a3636",
-      "selectionBackground": "#96905f40",
-      "selectionInactiveInfoForeground": "#71a19f"
+      "selectionBackground": "#96905f40"
     },
     "Component": {
       "errorFocusColor": "#480519",
@@ -73,7 +72,6 @@
       "foreground": "#262121"
     },
     "DebuggerPopup.borderColor": "#5c5959",
-    "DebuggerTabs.selectedBackground": "#262121",
     "DragAndDrop": {
       "areaForeground": "#b1b1b1  ",
       "areaBackground": "#262121",

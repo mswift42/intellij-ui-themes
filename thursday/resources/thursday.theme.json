@@ -246,8 +246,8 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "#404040FF",
-      "endBackground": "#404040FF"
+      "startBackground": "#94dcf8",
+      "endBackground": "#94dcf8"
     },
     "SpeedSearch": {
       "foreground": "#f9fbfd",

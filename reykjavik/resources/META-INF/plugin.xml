@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>Reykjavik</id>
   <name>Reykjavik</name>
-  <version>0.1.9</version>
+  <version>0.2.0</version>
   <vendor email="martin.haesler@gmail.com" url="https://github.com/mswift42">mswift42</vendor>
 
   <description><![CDATA[
@@ -12,7 +12,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-     Improve SELECTION_FOREGROUND / SELECTION_BACKGROUND colors.
+     Set DIFF_DELETED BACKGROUND color to #414f53.
     ]]>
   </change-notes>
 

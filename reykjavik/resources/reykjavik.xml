@@ -886,8 +886,8 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="a3a3a3" />
-        <option name="ERROR_STRIPE_COLOR" value="a3a3a3" />
+        <option name="BACKGROUND" value="414f53" />
+        <option name="ERROR_STRIPE_COLOR" value="414f53" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
